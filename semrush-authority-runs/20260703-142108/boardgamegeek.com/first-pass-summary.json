@@ -1,0 +1,16 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/boardgamegeek.com/first-pass-results",
+  "files": 1,
+  "rawLines": 5,
+  "mergedCount": 5,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/boardgamegeek.com/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 5,
+      "accepted": 5
+    }
+  ]
+}

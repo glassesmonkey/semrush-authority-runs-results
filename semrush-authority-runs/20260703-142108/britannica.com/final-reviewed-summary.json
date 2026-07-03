@@ -1,0 +1,16 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/britannica.com/final-review-results",
+  "files": 1,
+  "rawLines": 24,
+  "mergedCount": 24,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/britannica.com/final-reviewed-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "review-00.jsonl",
+      "lines": 24,
+      "accepted": 24
+    }
+  ]
+}

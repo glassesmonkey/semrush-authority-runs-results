@@ -1,0 +1,21 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/britannica.com/first-pass-results",
+  "files": 2,
+  "rawLines": 73,
+  "mergedCount": 73,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/britannica.com/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 42,
+      "accepted": 42
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 31,
+      "accepted": 31
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/raw-rows.jsonl",
+  "inputRows": 28639,
+  "uniqueRows": 27937,
+  "skipped": [],
+  "chunkSize": 500,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/chunks-500",
+  "chunks": [
+    {
+      "file": "chunk-00.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-02.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-03.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-04.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-05.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-06.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-07.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-08.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-09.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-10.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-11.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-12.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-13.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-14.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-15.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-16.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-17.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-18.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-19.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-20.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-21.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-22.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-23.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-24.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-25.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-26.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-27.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-28.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-29.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-30.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-31.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-32.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-33.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-34.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-35.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-36.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-37.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-38.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-39.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-40.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-41.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-42.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-43.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-44.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-45.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-46.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-47.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-48.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-49.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-50.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-51.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-52.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-53.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-54.jsonl",
+      "rows": 500
+    },
+    {
+      "file": "chunk-55.jsonl",
+      "rows": 437
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/unique-keywords.jsonl"
+}

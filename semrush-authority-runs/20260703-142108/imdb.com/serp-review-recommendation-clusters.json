@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "sourceCandidates": 4,
+    "recommendedClusters": 3,
+    "recommendedKeywords": 4,
+    "byPriority": {
+      "P0": {
+        "clusters": 0,
+        "keywords": 0
+      },
+      "P1": {
+        "clusters": 3,
+        "keywords": 4
+      },
+      "P2": {
+        "clusters": 0,
+        "keywords": 0
+      }
+    }
+  },
+  "clusters": [
+    {
+      "priority": "P1",
+      "name": "其他值得 SERP 复核的机会",
+      "sourceName": "Other valid SERP-review opportunities",
+      "pageShape": "匹配推荐形态的非纯内容页面",
+      "monetization": "广告、联盟分成、线索、模板或 SaaS",
+      "why": "该候选通过了二筛，但没有命中更窄的内置词簇。",
+      "keywordRows": [
+        {
+          "priority": "P1",
+          "cluster": "其他值得 SERP 复核的机会",
+          "keyword": "how fast is mach 10",
+          "type": "A",
+          "volume": 22200,
+          "kd": 38,
+          "cpc": 0,
+          "page": 51,
+          "recommended_shape": "Mach速度换算器，支持Mach数、单位、海拔或温度输入，并输出mph、km/h、m/s及简短解释。",
+          "monetization": "广告、教育工具流量、航空航天学习资源导流。",
+          "risk": "low",
+          "reason": "这是明确的速度换算意图，用户想要数值结果；Mach速度会受温度和高度影响，交互式换算器比静态问答更准确。"
+        },
+        {
+          "priority": "P1",
+          "cluster": "其他值得 SERP 复核的机会",
+          "keyword": "brown lacquered glass texture",
+          "type": "E",
+          "volume": 18100,
+          "kd": 29,
+          "cpc": 0,
+          "page": 66,
+          "recommended_shape": "棕色漆面玻璃纹理库，提供无缝预览、颜色/光泽/分辨率筛选、PBR贴图下载和商用授权过滤。",
+          "monetization": "广告、付费素材包、设计工具或3D资源联盟。",
+          "risk": "low",
+          "reason": "词面明确需要可直接查看或下载的纹理素材，而不是一篇介绍棕色漆面玻璃的文章。可用筛选、预览和授权说明提升匹配度。"
+        }
+      ],
+      "totalVolume": 40300,
+      "maxCpc": 0,
+      "minKd": 29
+    },
+    {
+      "priority": "P1",
+      "name": "消费品购买与对比选择器",
+      "sourceName": "Consumer buying and comparison selectors",
+      "pageShape": "对比矩阵、加权选择器或适配检查器",
+      "monetization": "联盟分成、广告",
+      "why": "用户正在做选择，结构化比较比泛泛榜单更有用。",
+      "keywordRows": [
+        {
+          "priority": "P1",
+          "cluster": "消费品购买与对比选择器",
+          "keyword": "nebraska cornhuskers football vs cincinnati bearcats football match player stats",
+          "type": "A",
+          "volume": 12100,
+          "kd": 40,
+          "cpc": 0,
+          "page": 73,
+          "recommended_shape": "球队对阵球员数据查询页，展示传球、冲球、防守、得分等统计，并支持按球员、位置和球队筛选。",
+          "monetization": "广告、体育数据订阅、赛程/票务或体育内容联盟。",
+          "risk": "medium",
+          "reason": "词面是具体比赛的球员数据查询，用户需要结构化统计表或对比结果，而不是赛后新闻文章。"
+        }
+      ],
+      "totalVolume": 12100,
+      "maxCpc": 0,
+      "minKd": 40
+    },
+    {
+      "priority": "P1",
+      "name": "食物与厨房计算器",
+      "sourceName": "Food and kitchen calculators",
+      "pageShape": "时间、比例、份量、替代品和密度计算器",
+      "monetization": "广告、联盟分成",
+      "why": "答案会被食材、数量、设备和偏好影响，适合做输入输出工具。",
+      "keywordRows": [
+        {
+          "priority": "P1",
+          "cluster": "食物与厨房计算器",
+          "keyword": "paramount+ price increase 2026",
+          "type": "F",
+          "volume": 12100,
+          "kd": 40,
+          "cpc": 0,
+          "page": 60,
+          "recommended_shape": "Paramount+价格变动追踪和订阅决策页，包含套餐对比、涨价时间线、年付/月付成本计算和替代服务比较。",
+          "monetization": "广告、流媒体联盟、订阅管理工具导流。",
+          "risk": "medium",
+          "reason": "这是品牌订阅价格变化和消费决策意图，不只是导航；用户需要知道涨价幅度、当前套餐和是否值得继续订阅。"
+        }
+      ],
+      "totalVolume": 12100,
+      "maxCpc": 0,
+      "minKd": 40
+    }
+  ]
+}

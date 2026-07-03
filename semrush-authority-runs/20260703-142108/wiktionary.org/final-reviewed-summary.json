@@ -1,0 +1,16 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wiktionary.org/final-review-results",
+  "files": 1,
+  "rawLines": 3,
+  "mergedCount": 3,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wiktionary.org/final-reviewed-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "review-00.jsonl",
+      "lines": 3,
+      "accepted": 3
+    }
+  ]
+}

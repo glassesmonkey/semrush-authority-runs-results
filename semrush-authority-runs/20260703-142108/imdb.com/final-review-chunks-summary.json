@@ -1,0 +1,16 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/imdb.com/first-pass-candidates.jsonl",
+  "inputRows": 21,
+  "uniqueRows": 21,
+  "skipped": [],
+  "chunkSize": 100,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/imdb.com/final-review-chunks",
+  "chunks": [
+    {
+      "file": "review-00.jsonl",
+      "rows": 21
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/imdb.com/final-review-source.jsonl"
+}

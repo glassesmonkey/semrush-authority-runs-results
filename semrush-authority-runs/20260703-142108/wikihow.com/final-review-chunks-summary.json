@@ -1,0 +1,16 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikihow.com/first-pass-candidates.jsonl",
+  "inputRows": 37,
+  "uniqueRows": 37,
+  "skipped": [],
+  "chunkSize": 100,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikihow.com/final-review-chunks",
+  "chunks": [
+    {
+      "file": "review-00.jsonl",
+      "rows": 37
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikihow.com/final-review-source.jsonl"
+}

@@ -1,0 +1,86 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/imdb.com/first-pass-results",
+  "files": 15,
+  "rawLines": 21,
+  "mergedCount": 21,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/imdb.com/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 1,
+      "accepted": 1
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-02.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-03.jsonl",
+      "lines": 10,
+      "accepted": 10
+    },
+    {
+      "file": "chunk-04.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-05.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-06.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-07.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-08.jsonl",
+      "lines": 2,
+      "accepted": 2
+    },
+    {
+      "file": "chunk-09.jsonl",
+      "lines": 1,
+      "accepted": 1
+    },
+    {
+      "file": "chunk-10.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-11.jsonl",
+      "lines": 4,
+      "accepted": 4
+    },
+    {
+      "file": "chunk-12.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-13.jsonl",
+      "lines": 3,
+      "accepted": 3
+    },
+    {
+      "file": "chunk-14.jsonl",
+      "lines": 0,
+      "accepted": 0
+    }
+  ]
+}

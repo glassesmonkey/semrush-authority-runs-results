@@ -1,0 +1,21 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wiktionary.org/first-pass-results",
+  "files": 2,
+  "rawLines": 3,
+  "mergedCount": 3,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wiktionary.org/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 1,
+      "accepted": 1
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 2,
+      "accepted": 2
+    }
+  ]
+}

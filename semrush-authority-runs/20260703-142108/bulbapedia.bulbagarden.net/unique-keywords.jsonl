@@ -1,0 +1,578 @@
+{"keyword":"bulbasaur","page":1,"position":1,"volume":201000,"traffic":26532,"kd":34,"cpc":0.57,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"}
+{"keyword":"raichu","page":1,"position":1,"volume":90500,"traffic":22444,"kd":27,"cpc":0.97,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"}
+{"keyword":"mewtwo","page":1,"position":1,"volume":165000,"traffic":21780,"kd":40,"cpc":0.65,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mewtwo_(Pok%C3%A9mon)"}
+{"keyword":"garchomp","page":1,"position":1,"volume":74000,"traffic":18352,"kd":34,"cpc":0.89,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon)"}
+{"keyword":"dratini","page":1,"position":1,"volume":60500,"traffic":15004,"kd":32,"cpc":0.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)"}
+{"keyword":"alakazam","page":1,"position":1,"volume":60500,"traffic":15004,"kd":35,"cpc":1.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)"}
+{"keyword":"lapras","page":1,"position":1,"volume":60500,"traffic":15004,"kd":36,"cpc":0.64,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon)"}
+{"keyword":"poliwhirl","page":1,"position":1,"volume":49500,"traffic":12276,"kd":35,"cpc":1.93,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poliwhirl_(Pok%C3%A9mon)"}
+{"keyword":"legendary pokemon","page":1,"position":1,"volume":49500,"traffic":12276,"kd":40,"cpc":0.85,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Legendary_Pok%C3%A9mon"}
+{"keyword":"growlithe","page":1,"position":1,"volume":49500,"traffic":12276,"kd":25,"cpc":0.78,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)"}
+{"keyword":"starmie","page":1,"position":1,"volume":49500,"traffic":12276,"kd":40,"cpc":1.27,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pok%C3%A9mon)"}
+{"keyword":"mega dragonite","page":1,"position":1,"volume":49500,"traffic":12276,"kd":22,"cpc":0.65,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dragonite_(Pok%C3%A9mon)"}
+{"keyword":"meowscarada","page":1,"position":1,"volume":49500,"traffic":12276,"kd":39,"cpc":1.45,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Meowscarada_(Pok%C3%A9mon)"}
+{"keyword":"articuno","page":1,"position":1,"volume":90500,"traffic":11946,"kd":35,"cpc":0.48,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pok%C3%A9mon)"}
+{"keyword":"charmander","page":1,"position":3,"volume":165000,"traffic":10725,"kd":34,"cpc":0.53,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"}
+{"keyword":"zoroark","page":1,"position":1,"volume":40500,"traffic":10044,"kd":37,"cpc":0.84,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon)"}
+{"keyword":"gastly","page":1,"position":1,"volume":40500,"traffic":10044,"kd":35,"cpc":6.67,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pok%C3%A9mon)"}
+{"keyword":"togepi","page":1,"position":1,"volume":40500,"traffic":10044,"kd":38,"cpc":0.79,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pok%C3%A9mon)"}
+{"keyword":"victreebel","page":1,"position":1,"volume":40500,"traffic":10044,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Victreebel_(Pok%C3%A9mon)"}
+{"keyword":"machoke","page":1,"position":1,"volume":40500,"traffic":10044,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Machoke_(Pok%C3%A9mon)"}
+{"keyword":"magneton","page":1,"position":1,"volume":40500,"traffic":10044,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magneton_(Pok%C3%A9mon)"}
+{"keyword":"clefable","page":1,"position":1,"volume":40500,"traffic":10044,"kd":27,"cpc":1.11,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Clefable_(Pok%C3%A9mon)"}
+{"keyword":"ceruledge","page":1,"position":1,"volume":40500,"traffic":10044,"kd":34,"cpc":1.71,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ceruledge_(Pok%C3%A9mon)"}
+{"keyword":"machop","page":1,"position":1,"volume":40500,"traffic":10044,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Machop_(Pok%C3%A9mon)"}
+{"keyword":"rayquaza","page":1,"position":1,"volume":74000,"traffic":9768,"kd":36,"cpc":0.72,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)"}
+{"keyword":"golduck","page":1,"position":1,"volume":33100,"traffic":8208,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Golduck_(Pok%C3%A9mon)"}
+{"keyword":"totodile","page":1,"position":1,"volume":33100,"traffic":8208,"kd":32,"cpc":0.93,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pok%C3%A9mon)"}
+{"keyword":"electabuzz","page":1,"position":1,"volume":33100,"traffic":8208,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pok%C3%A9mon)"}
+{"keyword":"horsea","page":1,"position":1,"volume":33100,"traffic":8208,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Horsea_(Pok%C3%A9mon)"}
+{"keyword":"oshawott","page":1,"position":1,"volume":33100,"traffic":8208,"kd":37,"cpc":0.7,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Oshawott_(Pok%C3%A9mon)"}
+{"keyword":"goodra","page":1,"position":1,"volume":33100,"traffic":8208,"kd":39,"cpc":1.99,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon)"}
+{"keyword":"marowak","page":1,"position":1,"volume":33100,"traffic":8208,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Marowak_(Pok%C3%A9mon)"}
+{"keyword":"golbat","page":1,"position":1,"volume":33100,"traffic":8208,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Golbat_(Pok%C3%A9mon)"}
+{"keyword":"raticate","page":1,"position":1,"volume":33100,"traffic":8208,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon)"}
+{"keyword":"grimer","page":1,"position":1,"volume":33100,"traffic":8208,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grimer_(Pok%C3%A9mon)"}
+{"keyword":"omanyte","page":1,"position":1,"volume":33100,"traffic":8208,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pok%C3%A9mon)"}
+{"keyword":"parasect","page":1,"position":1,"volume":33100,"traffic":8208,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Parasect_(Pok%C3%A9mon)"}
+{"keyword":"lickitung","page":1,"position":1,"volume":33100,"traffic":8208,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Pok%C3%A9mon)"}
+{"keyword":"gallade","page":1,"position":1,"volume":33100,"traffic":8208,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pok%C3%A9mon)"}
+{"keyword":"tauros","page":1,"position":1,"volume":33100,"traffic":8208,"kd":34,"cpc":1.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon)"}
+{"keyword":"milotic","page":1,"position":1,"volume":33100,"traffic":8208,"kd":34,"cpc":1.63,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon)"}
+{"keyword":"typhlosion","page":1,"position":1,"volume":33100,"traffic":8208,"kd":31,"cpc":0.74,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Typhlosion_(Pok%C3%A9mon)"}
+{"keyword":"arcanine","page":1,"position":1,"volume":60500,"traffic":7986,"kd":35,"cpc":1.18,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon)"}
+{"keyword":"geodude","page":1,"position":1,"volume":60500,"traffic":7986,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)"}
+{"keyword":"vulpix","page":1,"position":1,"volume":60500,"traffic":7986,"kd":34,"cpc":1.01,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"}
+{"keyword":"machamp","page":1,"position":1,"volume":60500,"traffic":7986,"kd":38,"cpc":0.98,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pok%C3%A9mon)"}
+{"keyword":"nidoking","page":1,"position":1,"volume":60500,"traffic":7986,"kd":28,"cpc":1,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pok%C3%A9mon)"}
+{"keyword":"venusaur","page":1,"position":2,"volume":90500,"traffic":7421,"kd":32,"cpc":1.94,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"}
+{"keyword":"zekrom","page":1,"position":1,"volume":27100,"traffic":6720,"kd":33,"cpc":0.67,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zekrom_(Pok%C3%A9mon)"}
+{"keyword":"scizor","page":1,"position":1,"volume":27100,"traffic":6720,"kd":35,"cpc":1.31,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scizor_(Pok%C3%A9mon)"}
+{"keyword":"ampharos","page":1,"position":1,"volume":27100,"traffic":6720,"kd":38,"cpc":1.07,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pok%C3%A9mon)"}
+{"keyword":"tatsugiri","page":1,"position":1,"volume":27100,"traffic":6720,"kd":40,"cpc":1.31,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tatsugiri_(Pok%C3%A9mon)"}
+{"keyword":"doduo","page":1,"position":1,"volume":27100,"traffic":6720,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Doduo_(Pok%C3%A9mon)"}
+{"keyword":"dialga","page":1,"position":1,"volume":27100,"traffic":6720,"kd":37,"cpc":2.5,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dialga_(Pok%C3%A9mon)"}
+{"keyword":"houndoom","page":1,"position":1,"volume":27100,"traffic":6720,"kd":36,"cpc":0.64,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Houndoom_(Pok%C3%A9mon)"}
+{"keyword":"toxtricity","page":1,"position":1,"volume":27100,"traffic":6720,"kd":32,"cpc":1.26,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon)"}
+{"keyword":"heracross","page":1,"position":1,"volume":27100,"traffic":6720,"kd":40,"cpc":1.54,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pok%C3%A9mon)"}
+{"keyword":"slowking","page":1,"position":1,"volume":27100,"traffic":6720,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pok%C3%A9mon)"}
+{"keyword":"mawile","page":1,"position":1,"volume":27100,"traffic":6720,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mawile_(Pok%C3%A9mon)"}
+{"keyword":"chandelure","page":1,"position":1,"volume":27100,"traffic":6720,"kd":38,"cpc":1.01,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon)"}
+{"keyword":"browt","page":1,"position":1,"volume":27100,"traffic":6720,"kd":31,"cpc":0.24,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Browt_(Pok%C3%A9mon)"}
+{"keyword":"hydreigon","page":1,"position":1,"volume":27100,"traffic":6720,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hydreigon_(Pok%C3%A9mon)"}
+{"keyword":"cinderace","page":1,"position":1,"volume":27100,"traffic":6720,"kd":27,"cpc":0.98,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)"}
+{"keyword":"tangela","page":1,"position":1,"volume":27100,"traffic":6720,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tangela_(Pok%C3%A9mon)"}
+{"keyword":"pinsir","page":1,"position":1,"volume":27100,"traffic":6720,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pinsir_(Pok%C3%A9mon)"}
+{"keyword":"corviknight","page":1,"position":1,"volume":27100,"traffic":6720,"kd":29,"cpc":1.41,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Corviknight_(Pok%C3%A9mon)"}
+{"keyword":"lycanroc","page":1,"position":1,"volume":27100,"traffic":6720,"kd":33,"cpc":1.27,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon)"}
+{"keyword":"sableye","page":1,"position":1,"volume":27100,"traffic":6720,"kd":40,"cpc":3.11,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sableye_(Pok%C3%A9mon)"}
+{"keyword":"kingdra","page":1,"position":1,"volume":27100,"traffic":6720,"kd":37,"cpc":0.86,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pok%C3%A9mon)"}
+{"keyword":"scolipede","page":1,"position":1,"volume":27100,"traffic":6720,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scolipede_(Pok%C3%A9mon)"}
+{"keyword":"luxray","page":1,"position":1,"volume":27100,"traffic":6720,"kd":37,"cpc":0.48,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon)"}
+{"keyword":"quagsire","page":1,"position":1,"volume":27100,"traffic":6720,"kd":34,"cpc":0.68,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Quagsire_(Pok%C3%A9mon)"}
+{"keyword":"persian pokemon","page":1,"position":1,"volume":27100,"traffic":6720,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Persian_(Pok%C3%A9mon)"}
+{"keyword":"terapagos","page":1,"position":1,"volume":27100,"traffic":6720,"kd":33,"cpc":2.16,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Terapagos_(Pok%C3%A9mon)"}
+{"keyword":"slowbro","page":1,"position":1,"volume":49500,"traffic":6534,"kd":37,"cpc":1.33,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Slowbro_(Pok%C3%A9mon)"}
+{"keyword":"scyther","page":1,"position":1,"volume":49500,"traffic":6534,"kd":30,"cpc":1.18,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scyther_(Pok%C3%A9mon)"}
+{"keyword":"beedrill","page":1,"position":2,"volume":49500,"traffic":6534,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon)"}
+{"keyword":"clefairy","page":1,"position":1,"volume":49500,"traffic":6534,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon)"}
+{"keyword":"diglett","page":1,"position":1,"volume":49500,"traffic":6534,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon)"}
+{"keyword":"butterfree","page":1,"position":1,"volume":49500,"traffic":6534,"kd":30,"cpc":0.99,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)"}
+{"keyword":"oddish","page":1,"position":1,"volume":49500,"traffic":6534,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pok%C3%A9mon)"}
+{"keyword":"delphox","page":1,"position":1,"volume":22200,"traffic":5505,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon)"}
+{"keyword":"samurott","page":1,"position":1,"volume":22200,"traffic":5505,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon)"}
+{"keyword":"victini","page":1,"position":1,"volume":22200,"traffic":5505,"kd":39,"cpc":1.23,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon)"}
+{"keyword":"lechonk","page":1,"position":1,"volume":22200,"traffic":5505,"kd":34,"cpc":0.02,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lechonk_(Pok%C3%A9mon)"}
+{"keyword":"ursaluna","page":1,"position":1,"volume":22200,"traffic":5505,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pok%C3%A9mon)"}
+{"keyword":"larvitar","page":1,"position":1,"volume":22200,"traffic":5505,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Larvitar_(Pok%C3%A9mon)"}
+{"keyword":"zorua","page":1,"position":1,"volume":22200,"traffic":5505,"kd":32,"cpc":13.5,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zorua_(Pok%C3%A9mon)"}
+{"keyword":"primarina","page":1,"position":1,"volume":22200,"traffic":5505,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Primarina_(Pok%C3%A9mon)"}
+{"keyword":"altaria","page":1,"position":1,"volume":22200,"traffic":5505,"kd":35,"cpc":1.52,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon)"}
+{"keyword":"turtwig","page":1,"position":1,"volume":22200,"traffic":5505,"kd":34,"cpc":0.63,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Turtwig_(Pok%C3%A9mon)"}
+{"keyword":"drampa","page":1,"position":1,"volume":22200,"traffic":5505,"kd":38,"cpc":0.8,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Drampa_(Pok%C3%A9mon)"}
+{"keyword":"haxorus","page":1,"position":1,"volume":22200,"traffic":5505,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Haxorus_(Pok%C3%A9mon)"}
+{"keyword":"skeledirge","page":1,"position":1,"volume":22200,"traffic":5505,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Skeledirge_(Pok%C3%A9mon)"}
+{"keyword":"armarouge","page":1,"position":1,"volume":22200,"traffic":5505,"kd":34,"cpc":2.08,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Armarouge_(Pok%C3%A9mon)"}
+{"keyword":"farfetch'd","page":1,"position":1,"volume":22200,"traffic":5505,"kd":40,"cpc":5.4,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Farfetch%27d_(Pok%C3%A9mon)"}
+{"keyword":"munchlax","page":1,"position":1,"volume":22200,"traffic":5505,"kd":28,"cpc":1.41,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Munchlax_(Pok%C3%A9mon)"}
+{"keyword":"ralts","page":1,"position":1,"volume":22200,"traffic":5505,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon)"}
+{"keyword":"malamar","page":1,"position":1,"volume":22200,"traffic":5505,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Malamar_(Pok%C3%A9mon)"}
+{"keyword":"torchic","page":1,"position":1,"volume":22200,"traffic":5505,"kd":30,"cpc":0.71,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pok%C3%A9mon)"}
+{"keyword":"mega hawlucha","page":2,"position":1,"volume":22200,"traffic":5505,"kd":28,"cpc":0.42,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pok%C3%A9mon)"}
+{"keyword":"togekiss","page":2,"position":1,"volume":22200,"traffic":5505,"kd":34,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Togekiss_(Pok%C3%A9mon)"}
+{"keyword":"mega meganium","page":2,"position":1,"volume":22200,"traffic":5505,"kd":19,"cpc":1.07,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon)"}
+{"keyword":"palkia","page":2,"position":1,"volume":22200,"traffic":5505,"kd":40,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Palkia_(Pok%C3%A9mon)"}
+{"keyword":"sceptile","page":2,"position":1,"volume":22200,"traffic":5505,"kd":33,"cpc":1.91,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon)"}
+{"keyword":"hatterene","page":2,"position":1,"volume":22200,"traffic":5505,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hatterene_(Pok%C3%A9mon)"}
+{"keyword":"swampert","page":2,"position":1,"volume":22200,"traffic":5505,"kd":32,"cpc":1.81,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pok%C3%A9mon)"}
+{"keyword":"ghost pokemon","page":2,"position":1,"volume":22200,"traffic":5505,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ghost_(type)"}
+{"keyword":"gholdengo","page":2,"position":1,"volume":22200,"traffic":5505,"kd":23,"cpc":1.15,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gholdengo_(Pok%C3%A9mon)"}
+{"keyword":"espurr","page":2,"position":1,"volume":22200,"traffic":5505,"kd":29,"cpc":0.64,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Espurr_(Pok%C3%A9mon)"}
+{"keyword":"giratina","page":2,"position":2,"volume":40500,"traffic":5346,"kd":34,"cpc":1.02,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pok%C3%A9mon)"}
+{"keyword":"sprigatito","page":2,"position":1,"volume":40500,"traffic":5346,"kd":37,"cpc":0.77,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sprigatito_(Pok%C3%A9mon)"}
+{"keyword":"kangaskhan","page":2,"position":1,"volume":40500,"traffic":5346,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pok%C3%A9mon)"}
+{"keyword":"magnemite","page":2,"position":1,"volume":40500,"traffic":5346,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magnemite_(Pok%C3%A9mon)"}
+{"keyword":"rattata","page":2,"position":1,"volume":40500,"traffic":5346,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon)"}
+{"keyword":"pokemon starters","page":2,"position":2,"volume":40500,"traffic":5346,"kd":35,"cpc":0.82,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/First_partner_Pok%C3%A9mon"}
+{"keyword":"weezing","page":2,"position":2,"volume":40500,"traffic":5346,"kd":36,"cpc":1.97,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pok%C3%A9mon)"}
+{"keyword":"bellsprout","page":2,"position":1,"volume":40500,"traffic":5346,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Pok%C3%A9mon)"}
+{"keyword":"arbok","page":2,"position":1,"volume":40500,"traffic":5346,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Arbok_(Pok%C3%A9mon)"}
+{"keyword":"metapod","page":2,"position":1,"volume":40500,"traffic":5346,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pok%C3%A9mon)"}
+{"keyword":"kabutops","page":2,"position":1,"volume":40500,"traffic":5346,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kabutops_(Pok%C3%A9mon)"}
+{"keyword":"ogerpon","page":2,"position":1,"volume":40500,"traffic":5346,"kd":32,"cpc":0.11,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ogerpon_(Pok%C3%A9mon)"}
+{"keyword":"muk","page":2,"position":1,"volume":40500,"traffic":5346,"kd":33,"cpc":1.52,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Muk_(Pok%C3%A9mon)"}
+{"keyword":"rapidash","page":2,"position":1,"volume":40500,"traffic":5346,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon)"}
+{"keyword":"ekans","page":2,"position":1,"volume":40500,"traffic":5346,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon)"}
+{"keyword":"poliwag","page":2,"position":1,"volume":40500,"traffic":5346,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Pok%C3%A9mon)"}
+{"keyword":"sandshrew","page":2,"position":1,"volume":40500,"traffic":5346,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon)"}
+{"keyword":"haunter","page":2,"position":1,"volume":40500,"traffic":5346,"kd":34,"cpc":0.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Haunter_(Pok%C3%A9mon)"}
+{"keyword":"wartortle","page":2,"position":2,"volume":60500,"traffic":4961,"kd":29,"cpc":0.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon)"}
+{"keyword":"flareon","page":2,"position":2,"volume":60500,"traffic":4961,"kd":32,"cpc":0.71,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Flareon_(Pok%C3%A9mon)"}
+{"keyword":"rockruff","page":2,"position":1,"volume":18100,"traffic":4488,"kd":34,"cpc":1.33,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon)"}
+{"keyword":"golurk","page":2,"position":1,"volume":18100,"traffic":4488,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Golurk_(Pok%C3%A9mon)"}
+{"keyword":"tyrantrum","page":2,"position":1,"volume":18100,"traffic":4488,"kd":25,"cpc":1.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tyrantrum_(Pok%C3%A9mon)"}
+{"keyword":"joltik","page":2,"position":1,"volume":18100,"traffic":4488,"kd":33,"cpc":0.76,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pok%C3%A9mon)"}
+{"keyword":"bidoof","page":2,"position":1,"volume":18100,"traffic":4488,"kd":39,"cpc":0.7,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pok%C3%A9mon)"}
+{"keyword":"rillaboom","page":2,"position":1,"volume":18100,"traffic":4488,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rillaboom_(Pok%C3%A9mon)"}
+{"keyword":"mythical pokemon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mythical_Pok%C3%A9mon"}
+{"keyword":"cleffa","page":2,"position":1,"volume":18100,"traffic":4488,"kd":33,"cpc":1.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cleffa_(Pok%C3%A9mon)"}
+{"keyword":"fire type pokemon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":19,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"}
+{"keyword":"budew","page":2,"position":1,"volume":18100,"traffic":4488,"kd":30,"cpc":0.83,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Budew_(Pok%C3%A9mon)"}
+{"keyword":"zamazenta","page":2,"position":1,"volume":18100,"traffic":4488,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zamazenta_(Pok%C3%A9mon)"}
+{"keyword":"azumarill","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Azumarill_(Pok%C3%A9mon)"}
+{"keyword":"spiritomb","page":2,"position":1,"volume":18100,"traffic":4488,"kd":35,"cpc":0.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pok%C3%A9mon)"}
+{"keyword":"pachirisu","page":2,"position":1,"volume":18100,"traffic":4488,"kd":39,"cpc":0.83,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pok%C3%A9mon)"}
+{"keyword":"dachsbun","page":2,"position":1,"volume":18100,"traffic":4488,"kd":30,"cpc":0.5,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dachsbun_(Pok%C3%A9mon)"}
+{"keyword":"kingambit","page":2,"position":1,"volume":18100,"traffic":4488,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kingambit_(Pok%C3%A9mon)"}
+{"keyword":"snivy","page":2,"position":1,"volume":18100,"traffic":4488,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Snivy_(Pok%C3%A9mon)"}
+{"keyword":"gliscor","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gliscor_(Pok%C3%A9mon)"}
+{"keyword":"urshifu","page":2,"position":1,"volume":18100,"traffic":4488,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon)"}
+{"keyword":"laparus","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0.64,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon)"}
+{"keyword":"dragalge","page":2,"position":1,"volume":18100,"traffic":4488,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pok%C3%A9mon)"}
+{"keyword":"goomy","page":2,"position":1,"volume":18100,"traffic":4488,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pok%C3%A9mon)"}
+{"keyword":"lunala","page":2,"position":1,"volume":18100,"traffic":4488,"kd":38,"cpc":1.1,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lunala_(Pok%C3%A9mon)"}
+{"keyword":"celebi","page":2,"position":1,"volume":18100,"traffic":4488,"kd":39,"cpc":1.56,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pok%C3%A9mon)"}
+{"keyword":"snorunt","page":2,"position":1,"volume":18100,"traffic":4488,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pok%C3%A9mon)"}
+{"keyword":"fennekin","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0.69,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pok%C3%A9mon)"}
+{"keyword":"magnezone","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magnezone_(Pok%C3%A9mon)"}
+{"keyword":"scrafty","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pok%C3%A9mon)"}
+{"keyword":"tepig","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tepig_(Pok%C3%A9mon)"}
+{"keyword":"chimchar","page":2,"position":1,"volume":18100,"traffic":4488,"kd":32,"cpc":0.87,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pok%C3%A9mon)"}
+{"keyword":"oricorio","page":2,"position":1,"volume":18100,"traffic":4488,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon)"}
+{"keyword":"grimmsnarl","page":2,"position":1,"volume":18100,"traffic":4488,"kd":29,"cpc":0.81,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grimmsnarl_(Pok%C3%A9mon)"}
+{"keyword":"blacephalon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Blacephalon_(Pok%C3%A9mon)"}
+{"keyword":"aggron","page":2,"position":1,"volume":18100,"traffic":4488,"kd":38,"cpc":1.37,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pok%C3%A9mon)"}
+{"keyword":"misdreavus","page":2,"position":1,"volume":18100,"traffic":4488,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Misdreavus_(Pok%C3%A9mon)"}
+{"keyword":"banette","page":2,"position":1,"volume":18100,"traffic":4488,"kd":33,"cpc":2.49,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Banette_(Pok%C3%A9mon)"}
+{"keyword":"duraludon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Duraludon_(Pok%C3%A9mon)"}
+{"keyword":"eelektross","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":2,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Eelektross_(Pok%C3%A9mon)"}
+{"keyword":"ghost type pokemon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ghost_(type)"}
+{"keyword":"cetitan","page":2,"position":1,"volume":18100,"traffic":4488,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cetitan_(Pok%C3%A9mon)"}
+{"keyword":"roserade","page":2,"position":1,"volume":18100,"traffic":4488,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Roserade_(Pok%C3%A9mon)"}
+{"keyword":"archaludon","page":2,"position":1,"volume":18100,"traffic":4488,"kd":36,"cpc":2.51,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Archaludon_(Pok%C3%A9mon)"}
+{"keyword":"iron valiant","page":2,"position":1,"volume":18100,"traffic":4488,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Iron_Valiant_(Pok%C3%A9mon)"}
+{"keyword":"sandslash","page":2,"position":1,"volume":33100,"traffic":4369,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon)"}
+{"keyword":"tentacool","page":2,"position":1,"volume":33100,"traffic":4369,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pok%C3%A9mon)"}
+{"keyword":"cyndaquil","page":2,"position":1,"volume":33100,"traffic":4369,"kd":40,"cpc":0.63,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pok%C3%A9mon)"}
+{"keyword":"kingler","page":2,"position":1,"volume":33100,"traffic":4369,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kingler_(Pok%C3%A9mon)"}
+{"keyword":"tentacruel","page":2,"position":1,"volume":33100,"traffic":4369,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tentacruel_(Pok%C3%A9mon)"}
+{"keyword":"metagross","page":2,"position":2,"volume":33100,"traffic":4369,"kd":37,"cpc":1.06,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Metagross_(Pok%C3%A9mon)"}
+{"keyword":"feraligatr","page":2,"position":2,"volume":33100,"traffic":4369,"kd":37,"cpc":3.11,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon)"}
+{"keyword":"reshiram","page":2,"position":1,"volume":33100,"traffic":4369,"kd":32,"cpc":0.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pok%C3%A9mon)"}
+{"keyword":"nidorina","page":2,"position":1,"volume":33100,"traffic":4369,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)"}
+{"keyword":"chikorita","page":2,"position":1,"volume":33100,"traffic":4369,"kd":31,"cpc":1.3,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pok%C3%A9mon)"}
+{"keyword":"exeggcute","page":2,"position":2,"volume":33100,"traffic":4369,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pok%C3%A9mon)"}
+{"keyword":"exeggutor","page":2,"position":1,"volume":33100,"traffic":4369,"kd":39,"cpc":0.58,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Exeggutor_(Pok%C3%A9mon)"}
+{"keyword":"kyogre","page":2,"position":1,"volume":33100,"traffic":4369,"kd":38,"cpc":1.36,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kyogre_(Pok%C3%A9mon)"}
+{"keyword":"ninetales","page":2,"position":1,"volume":33100,"traffic":4369,"kd":40,"cpc":1.83,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"}
+{"keyword":"hypno","page":2,"position":1,"volume":33100,"traffic":4369,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hypno_(Pok%C3%A9mon)"}
+{"keyword":"nidoqueen","page":2,"position":2,"volume":33100,"traffic":4369,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pok%C3%A9mon)"}
+{"keyword":"primeape","page":2,"position":1,"volume":33100,"traffic":4369,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Primeape_(Pok%C3%A9mon)"}
+{"keyword":"rhyhorn","page":2,"position":2,"volume":33100,"traffic":4369,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rhyhorn_(Pok%C3%A9mon)"}
+{"keyword":"koffing","page":2,"position":1,"volume":33100,"traffic":4369,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pok%C3%A9mon)"}
+{"keyword":"fighting type weakness","page":2,"position":1,"volume":33100,"traffic":4369,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fighting_(type)"}
+{"keyword":"gecqua","page":2,"position":1,"volume":33100,"traffic":4369,"kd":34,"cpc":4.48,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gecqua_(Pok%C3%A9mon)"}
+{"keyword":"mudkip","page":2,"position":1,"volume":33100,"traffic":4369,"kd":33,"cpc":0.7,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon)"}
+{"keyword":"venonat","page":2,"position":2,"volume":33100,"traffic":4369,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Venonat_(Pok%C3%A9mon)"}
+{"keyword":"vileplume","page":2,"position":1,"volume":33100,"traffic":4369,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Vileplume_(Pok%C3%A9mon)"}
+{"keyword":"wigglytuff","page":2,"position":2,"volume":49500,"traffic":4059,"kd":29,"cpc":0.42,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon)"}
+{"keyword":"weedle","page":2,"position":1,"volume":49500,"traffic":4059,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon)"}
+{"keyword":"mega starmie","page":2,"position":3,"volume":49500,"traffic":4059,"kd":31,"cpc":0.73,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pok%C3%A9mon)"}
+{"keyword":"zubat","page":3,"position":2,"volume":49500,"traffic":4059,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zubat_(Pok%C3%A9mon)"}
+{"keyword":"igglybuff","page":3,"position":1,"volume":14800,"traffic":3670,"kd":31,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Igglybuff_(Pok%C3%A9mon)"}
+{"keyword":"camerupt","page":3,"position":1,"volume":14800,"traffic":3670,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pok%C3%A9mon)"}
+{"keyword":"chimecho","page":3,"position":1,"volume":14800,"traffic":3670,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chimecho_(Pok%C3%A9mon)"}
+{"keyword":"dondozo","page":3,"position":1,"volume":14800,"traffic":3670,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dondozo_(Pok%C3%A9mon)"}
+{"keyword":"venasaur","page":3,"position":1,"volume":14800,"traffic":3670,"kd":33,"cpc":1.94,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"}
+{"keyword":"trubbish","page":3,"position":1,"volume":14800,"traffic":3670,"kd":33,"cpc":0.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Trubbish_(Pok%C3%A9mon)"}
+{"keyword":"mareep","page":3,"position":1,"volume":14800,"traffic":3670,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon)"}
+{"keyword":"pokemon fire red walkthrough","page":3,"position":1,"volume":14800,"traffic":3670,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_FireRed_and_LeafGreen"}
+{"keyword":"feebas","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Feebas_(Pok%C3%A9mon)"}
+{"keyword":"chesnaught","page":3,"position":1,"volume":14800,"traffic":3670,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chesnaught_(Pok%C3%A9mon)"}
+{"keyword":"alolan ninetales","page":3,"position":1,"volume":14800,"traffic":3670,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"}
+{"keyword":"basculegion","page":3,"position":1,"volume":14800,"traffic":3670,"kd":31,"cpc":3.43,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Basculegion_(Pok%C3%A9mon)"}
+{"keyword":"tinkatink","page":3,"position":1,"volume":14800,"traffic":3670,"kd":26,"cpc":2.05,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon)"}
+{"keyword":"manectric","page":3,"position":1,"volume":14800,"traffic":3670,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Manectric_(Pok%C3%A9mon)"}
+{"keyword":"hydrapple","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":2.15,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hydrapple_(Pok%C3%A9mon)"}
+{"keyword":"sneasel","page":3,"position":1,"volume":14800,"traffic":3670,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Pok%C3%A9mon)"}
+{"keyword":"floette","page":3,"position":1,"volume":14800,"traffic":3670,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Floette_(Pok%C3%A9mon)"}
+{"keyword":"slaking","page":3,"position":1,"volume":14800,"traffic":3670,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Slaking_(Pok%C3%A9mon)"}
+{"keyword":"applin","page":3,"position":1,"volume":14800,"traffic":3670,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Applin_(Pok%C3%A9mon)"}
+{"keyword":"trapinch","page":3,"position":1,"volume":14800,"traffic":3670,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pok%C3%A9mon)"}
+{"keyword":"quaquaval","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Quaquaval_(Pok%C3%A9mon)"}
+{"keyword":"regieleki","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Regieleki_(Pok%C3%A9mon)"}
+{"keyword":"florges","page":3,"position":1,"volume":14800,"traffic":3670,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Florges_(Pok%C3%A9mon)"}
+{"keyword":"dreepy","page":3,"position":1,"volume":14800,"traffic":3670,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dreepy_(Pok%C3%A9mon)"}
+{"keyword":"bisharp","page":3,"position":1,"volume":14800,"traffic":3670,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bisharp_(Pok%C3%A9mon)"}
+{"keyword":"inteleon","page":3,"position":1,"volume":14800,"traffic":3670,"kd":37,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon)"}
+{"keyword":"politoed","page":3,"position":1,"volume":14800,"traffic":3670,"kd":39,"cpc":1.2,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Politoed_(Pok%C3%A9mon)"}
+{"keyword":"paradox pokemon","page":3,"position":1,"volume":14800,"traffic":3670,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Paradox_Pok%C3%A9mon"}
+{"keyword":"scraggy","page":3,"position":1,"volume":14800,"traffic":3670,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scraggy_(Pok%C3%A9mon)"}
+{"keyword":"fidough","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fidough_(Pok%C3%A9mon)"}
+{"keyword":"magearna","page":3,"position":1,"volume":14800,"traffic":3670,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magearna_(Pok%C3%A9mon)"}
+{"keyword":"lilligant","page":3,"position":1,"volume":14800,"traffic":3670,"kd":34,"cpc":1.48,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lilligant_(Pok%C3%A9mon)"}
+{"keyword":"swablu","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":1.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Swablu_(Pok%C3%A9mon)"}
+{"keyword":"emolga","page":3,"position":1,"volume":14800,"traffic":3670,"kd":35,"cpc":1.03,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pok%C3%A9mon)"}
+{"keyword":"beldum","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pok%C3%A9mon)"}
+{"keyword":"tandemaus","page":3,"position":1,"volume":14800,"traffic":3670,"kd":25,"cpc":1.91,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tandemaus_(Pok%C3%A9mon)"}
+{"keyword":"hex maniac","page":3,"position":1,"volume":14800,"traffic":3670,"kd":33,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hex_Maniac_(Trainer_class)"}
+{"keyword":"pyroar","page":3,"position":1,"volume":14800,"traffic":3670,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pyroar_(Pok%C3%A9mon)"}
+{"keyword":"smeargle","page":3,"position":1,"volume":14800,"traffic":3670,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Smeargle_(Pok%C3%A9mon)"}
+{"keyword":"calyrex","page":3,"position":1,"volume":14800,"traffic":3670,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Calyrex_(Pok%C3%A9mon)"}
+{"keyword":"sobble","page":3,"position":1,"volume":14800,"traffic":3670,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sobble_(Pok%C3%A9mon)"}
+{"keyword":"fire red walkthrough","page":3,"position":1,"volume":14800,"traffic":3670,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_FireRed_and_LeafGreen"}
+{"keyword":"graveler","page":3,"position":1,"volume":27100,"traffic":3577,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pok%C3%A9mon)"}
+{"keyword":"marshadow","page":3,"position":1,"volume":27100,"traffic":3577,"kd":38,"cpc":2.06,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Marshadow_(Pok%C3%A9mon)"}
+{"keyword":"venomoth","page":3,"position":1,"volume":27100,"traffic":3577,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Venomoth_(Pok%C3%A9mon)"}
+{"keyword":"wobbuffet","page":3,"position":1,"volume":27100,"traffic":3577,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Wobbuffet_(Pok%C3%A9mon)"}
+{"keyword":"mew pokemon","page":3,"position":1,"volume":27100,"traffic":3577,"kd":39,"cpc":0.6,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon)"}
+{"keyword":"evolve mega","page":3,"position":1,"volume":27100,"traffic":3577,"kd":40,"cpc":0.46,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mega_Evolution"}
+{"keyword":"eternatus","page":3,"position":1,"volume":27100,"traffic":3577,"kd":34,"cpc":1.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pok%C3%A9mon)"}
+{"keyword":"charcadet","page":3,"position":1,"volume":27100,"traffic":3577,"kd":27,"cpc":0.45,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charcadet_(Pok%C3%A9mon)"}
+{"keyword":"steelix","page":3,"position":1,"volume":27100,"traffic":3577,"kd":34,"cpc":1.25,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Steelix_(Pok%C3%A9mon)"}
+{"keyword":"omastar","page":3,"position":1,"volume":27100,"traffic":3577,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pok%C3%A9mon)"}
+{"keyword":"yveltal","page":3,"position":1,"volume":27100,"traffic":3577,"kd":40,"cpc":0.57,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pok%C3%A9mon)"}
+{"keyword":"dodrio","page":3,"position":2,"volume":27100,"traffic":3577,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dodrio_(Pok%C3%A9mon)"}
+{"keyword":"quaxly","page":3,"position":1,"volume":27100,"traffic":3577,"kd":25,"cpc":0.06,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon)"}
+{"keyword":"krabby","page":3,"position":1,"volume":27100,"traffic":3577,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pok%C3%A9mon)"}
+{"keyword":"hitmonchan","page":3,"position":2,"volume":40500,"traffic":3321,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pok%C3%A9mon)"}
+{"keyword":"pidgeotto","page":3,"position":2,"volume":40500,"traffic":3321,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pok%C3%A9mon)"}
+{"keyword":"onix","page":3,"position":2,"volume":40500,"traffic":3321,"kd":37,"cpc":1.66,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Onix_(Pok%C3%A9mon)"}
+{"keyword":"mankey","page":3,"position":2,"volume":40500,"traffic":3321,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mankey_(Pok%C3%A9mon)"}
+{"keyword":"hitmonlee","page":3,"position":2,"volume":40500,"traffic":3321,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hitmonlee_(Pok%C3%A9mon)"}
+{"keyword":"nidorino","page":3,"position":2,"volume":40500,"traffic":3321,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nidorino_(Pok%C3%A9mon)"}
+{"keyword":"roselia","page":3,"position":1,"volume":12100,"traffic":3000,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Roselia_(Pok%C3%A9mon)"}
+{"keyword":"murkrow","page":3,"position":1,"volume":12100,"traffic":3000,"kd":37,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Murkrow_(Pok%C3%A9mon)"}
+{"keyword":"mightyena","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mightyena_(Pok%C3%A9mon)"}
+{"keyword":"audino's","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Audino_(Pok%C3%A9mon)"}
+{"keyword":"marill","page":3,"position":1,"volume":12100,"traffic":3000,"kd":26,"cpc":1.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Marill_(Pok%C3%A9mon)"}
+{"keyword":"crabominable","page":3,"position":1,"volume":12100,"traffic":3000,"kd":35,"cpc":0.22,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pok%C3%A9mon)"}
+{"keyword":"electric pokemon","page":3,"position":1,"volume":12100,"traffic":3000,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Electric_(type)"}
+{"keyword":"regidrago","page":3,"position":1,"volume":12100,"traffic":3000,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pok%C3%A9mon)"}
+{"keyword":"miltank","page":3,"position":1,"volume":12100,"traffic":3000,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pok%C3%A9mon)"}
+{"keyword":"druddigon","page":3,"position":1,"volume":12100,"traffic":3000,"kd":36,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pok%C3%A9mon)"}
+{"keyword":"kirlia","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon)"}
+{"keyword":"pokemon emerald walkthrough","page":3,"position":1,"volume":12100,"traffic":3000,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Emerald"}
+{"keyword":"carbink","page":3,"position":1,"volume":12100,"traffic":3000,"kd":36,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pok%C3%A9mon)"}
+{"keyword":"combee","page":3,"position":1,"volume":12100,"traffic":3000,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Combee_(Pok%C3%A9mon)"}
+{"keyword":"tyrunt","page":3,"position":1,"volume":12100,"traffic":3000,"kd":37,"cpc":0.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tyrunt_(Pok%C3%A9mon)"}
+{"keyword":"phantump","page":3,"position":1,"volume":12100,"traffic":3000,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pok%C3%A9mon)"}
+{"keyword":"ground type pokemon","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ground_(type)"}
+{"keyword":"dusclops","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dusclops_(Pok%C3%A9mon)"}
+{"keyword":"litleo","page":3,"position":1,"volume":12100,"traffic":3000,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pok%C3%A9mon)"}
+{"keyword":"poison type pokemon","page":3,"position":1,"volume":12100,"traffic":3000,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poison_(type)"}
+{"keyword":"porygon z","page":3,"position":1,"volume":12100,"traffic":3000,"kd":37,"cpc":0.64,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Porygon-Z_(Pok%C3%A9mon)"}
+{"keyword":"bellossom","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bellossom_(Pok%C3%A9mon)"}
+{"keyword":"shuppet","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Shuppet_(Pok%C3%A9mon)"}
+{"keyword":"duskull","page":3,"position":1,"volume":12100,"traffic":3000,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Duskull_(Pok%C3%A9mon)"}
+{"keyword":"pawmi","page":3,"position":1,"volume":12100,"traffic":3000,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pawmi_(Pok%C3%A9mon)"}
+{"keyword":"ninetails","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ninetales_(Pok%C3%A9mon)"}
+{"keyword":"impidimp","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Impidimp_(Pok%C3%A9mon)"}
+{"keyword":"zangoose","page":3,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zangoose_(Pok%C3%A9mon)"}
+{"keyword":"gothitelle","page":3,"position":1,"volume":12100,"traffic":3000,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gothitelle_(Pok%C3%A9mon)"}
+{"keyword":"sirfetch'd","page":3,"position":1,"volume":12100,"traffic":3000,"kd":34,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sirfetch%27d_(Pok%C3%A9mon)"}
+{"keyword":"cobalion","page":3,"position":1,"volume":12100,"traffic":3000,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cobalion_(Pok%C3%A9mon)"}
+{"keyword":"dunsparce","page":3,"position":1,"volume":12100,"traffic":3000,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dunsparce_(Pok%C3%A9mon)"}
+{"keyword":"yamask","page":3,"position":1,"volume":12100,"traffic":3000,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pok%C3%A9mon)"}
+{"keyword":"pupitar","page":3,"position":1,"volume":12100,"traffic":3000,"kd":30,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pupitar_(Pok%C3%A9mon)"}
+{"keyword":"glalie","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Glalie_(Pok%C3%A9mon)"}
+{"keyword":"poochyena","page":3,"position":1,"volume":12100,"traffic":3000,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poochyena_(Pok%C3%A9mon)"}
+{"keyword":"wugtrio","page":3,"position":1,"volume":12100,"traffic":3000,"kd":39,"cpc":1.3,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Wugtrio_(Pok%C3%A9mon)"}
+{"keyword":"tropius","page":4,"position":1,"volume":12100,"traffic":3000,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pok%C3%A9mon)"}
+{"keyword":"pangoro","page":4,"position":1,"volume":12100,"traffic":3000,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pangoro_(Pok%C3%A9mon)"}
+{"keyword":"garbodor","page":4,"position":1,"volume":12100,"traffic":3000,"kd":35,"cpc":0.84,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garbodor_(Pok%C3%A9mon)"}
+{"keyword":"dusknoir","page":4,"position":1,"volume":12100,"traffic":3000,"kd":30,"cpc":1.19,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dusknoir_(Pok%C3%A9mon)"}
+{"keyword":"greavard","page":4,"position":1,"volume":12100,"traffic":3000,"kd":30,"cpc":4,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Greavard_(Pok%C3%A9mon)"}
+{"keyword":"togetic","page":4,"position":1,"volume":12100,"traffic":3000,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pok%C3%A9mon)"}
+{"keyword":"water pokemon","page":4,"position":1,"volume":22200,"traffic":2930,"kd":33,"cpc":0.55,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Water_(type)"}
+{"keyword":"hisuian samurott","page":4,"position":1,"volume":22200,"traffic":2930,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon)"}
+{"keyword":"golisopod","page":4,"position":2,"volume":22200,"traffic":2930,"kd":36,"cpc":2,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Golisopod_(Pok%C3%A9mon)"}
+{"keyword":"alcremie","page":4,"position":1,"volume":22200,"traffic":2930,"kd":30,"cpc":1.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon)"}
+{"keyword":"regigigas","page":4,"position":1,"volume":22200,"traffic":2930,"kd":34,"cpc":0.77,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pok%C3%A9mon)"}
+{"keyword":"water type pokemon","page":4,"position":1,"volume":22200,"traffic":2930,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Water_(type)"}
+{"keyword":"koraidon","page":4,"position":1,"volume":22200,"traffic":2930,"kd":36,"cpc":0.7,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Koraidon_(Pok%C3%A9mon)"}
+{"keyword":"excadrill","page":4,"position":2,"volume":22200,"traffic":2930,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Excadrill_(Pok%C3%A9mon)"}
+{"keyword":"starter pokemon","page":4,"position":1,"volume":22200,"traffic":2930,"kd":40,"cpc":0.82,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/First_partner_Pok%C3%A9mon"}
+{"keyword":"kyurem","page":4,"position":1,"volume":22200,"traffic":2930,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kyurem_(Pok%C3%A9mon)"}
+{"keyword":"skarmory","page":4,"position":2,"volume":22200,"traffic":2930,"kd":36,"cpc":1.16,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Skarmory_(Pok%C3%A9mon)"}
+{"keyword":"morpeko","page":4,"position":1,"volume":22200,"traffic":2930,"kd":27,"cpc":0.91,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Morpeko_(Pok%C3%A9mon)"}
+{"keyword":"seaking","page":4,"position":1,"volume":22200,"traffic":2930,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Seaking_(Pok%C3%A9mon)"}
+{"keyword":"volcarona","page":4,"position":2,"volume":22200,"traffic":2930,"kd":36,"cpc":0.9,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Volcarona_(Pok%C3%A9mon)"}
+{"keyword":"poliwrath","page":4,"position":1,"volume":33100,"traffic":2714,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poliwrath_(Pok%C3%A9mon)"}
+{"keyword":"zeraora","page":4,"position":2,"volume":33100,"traffic":2714,"kd":35,"cpc":2.01,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zeraora_(Pok%C3%A9mon)"}
+{"keyword":"magmar","page":4,"position":2,"volume":33100,"traffic":2714,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magmar_(Pok%C3%A9mon)"}
+{"keyword":"tinkaton","page":4,"position":1,"volume":33100,"traffic":2714,"kd":34,"cpc":4.88,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tinkaton_(Pok%C3%A9mon)"}
+{"keyword":"dugtrio","page":4,"position":2,"volume":33100,"traffic":2714,"kd":34,"cpc":1.3,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dugtrio_(Pok%C3%A9mon)"}
+{"keyword":"kakuna","page":4,"position":1,"volume":33100,"traffic":2714,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon)"}
+{"keyword":"staryu","page":4,"position":2,"volume":33100,"traffic":2714,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Staryu_(Pok%C3%A9mon)"}
+{"keyword":"rhydon","page":4,"position":2,"volume":33100,"traffic":2714,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pok%C3%A9mon)"}
+{"keyword":"dewgong","page":4,"position":2,"volume":33100,"traffic":2714,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dewgong_(Pok%C3%A9mon)"}
+{"keyword":"type fire pokemon","page":4,"position":2,"volume":18100,"traffic":2389,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"}
+{"keyword":"gimmighoul","page":4,"position":1,"volume":18100,"traffic":2389,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_(Pok%C3%A9mon)"}
+{"keyword":"tsareena","page":4,"position":2,"volume":18100,"traffic":2389,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tsareena_(Pok%C3%A9mon)"}
+{"keyword":"clodsire","page":4,"position":1,"volume":18100,"traffic":2389,"kd":26,"cpc":0.25,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Clodsire_(Pok%C3%A9mon)"}
+{"keyword":"noibat","page":4,"position":2,"volume":18100,"traffic":2389,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Noibat_(Pok%C3%A9mon)"}
+{"keyword":"pecharunt","page":4,"position":1,"volume":18100,"traffic":2389,"kd":34,"cpc":0.97,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pok%C3%A9mon)"}
+{"keyword":"shaymin","page":4,"position":1,"volume":18100,"traffic":2389,"kd":40,"cpc":1.36,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Shaymin_(Pok%C3%A9mon)"}
+{"keyword":"emboar","page":4,"position":1,"volume":18100,"traffic":2389,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pok%C3%A9mon)"}
+{"keyword":"mega emboar","page":4,"position":1,"volume":18100,"traffic":2389,"kd":33,"cpc":0.57,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pok%C3%A9mon)"}
+{"keyword":"entei","page":4,"position":1,"volume":18100,"traffic":2389,"kd":29,"cpc":2.39,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Entei_(Pok%C3%A9mon)"}
+{"keyword":"talonflame","page":4,"position":2,"volume":18100,"traffic":2389,"kd":36,"cpc":0.91,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Talonflame_(Pok%C3%A9mon)"}
+{"keyword":"rotom","page":4,"position":1,"volume":18100,"traffic":2389,"kd":26,"cpc":2.41,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon)"}
+{"keyword":"rhyperior","page":4,"position":1,"volume":18100,"traffic":2389,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pok%C3%A9mon)"}
+{"keyword":"n pokemon","page":4,"position":1,"volume":18100,"traffic":2389,"kd":33,"cpc":1.04,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/N"}
+{"keyword":"mega lopunny","page":4,"position":2,"volume":18100,"traffic":2389,"kd":35,"cpc":0.45,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Pok%C3%A9mon)"}
+{"keyword":"froakie","page":4,"position":2,"volume":18100,"traffic":2389,"kd":34,"cpc":0.67,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Froakie_(Pok%C3%A9mon)"}
+{"keyword":"palafin","page":4,"position":2,"volume":18100,"traffic":2389,"kd":30,"cpc":2.61,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Palafin_(Pok%C3%A9mon)"}
+{"keyword":"falinks","page":4,"position":1,"volume":18100,"traffic":2389,"kd":39,"cpc":0.22,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Falinks_(Pok%C3%A9mon)"}
+{"keyword":"annihilape","page":4,"position":2,"volume":18100,"traffic":2389,"kd":34,"cpc":0.79,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Annihilape_(Pok%C3%A9mon)"}
+{"keyword":"miraidon","page":4,"position":2,"volume":18100,"traffic":2389,"kd":31,"cpc":0.93,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Miraidon_(Pok%C3%A9mon)"}
+{"keyword":"zigzagoon","page":4,"position":2,"volume":18100,"traffic":2389,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pok%C3%A9mon)"}
+{"keyword":"sudowoodo","page":4,"position":1,"volume":18100,"traffic":2389,"kd":36,"cpc":0.9,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sudowoodo_(Pok%C3%A9mon)"}
+{"keyword":"grass type pokemon","page":4,"position":2,"volume":18100,"traffic":2389,"kd":18,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grass_(type)"}
+{"keyword":"latias","page":4,"position":1,"volume":18100,"traffic":2389,"kd":36,"cpc":2.69,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Latias_(Pok%C3%A9mon)"}
+{"keyword":"dedenne","page":4,"position":1,"volume":18100,"traffic":2389,"kd":38,"cpc":0.65,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pok%C3%A9mon)"}
+{"keyword":"baxcalibur","page":4,"position":2,"volume":27100,"traffic":2222,"kd":35,"cpc":0.49,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Baxcalibur_(Pok%C3%A9mon)"}
+{"keyword":"zacian","page":4,"position":1,"volume":27100,"traffic":2222,"kd":30,"cpc":0.43,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zacian_(Pok%C3%A9mon)"}
+{"keyword":"jirachi","page":4,"position":1,"volume":27100,"traffic":2222,"kd":32,"cpc":0.97,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon)"}
+{"keyword":"team rocket","page":4,"position":2,"volume":33100,"traffic":2151,"kd":38,"cpc":0.73,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Team_Rocket"}
+{"keyword":"fuecoco","page":4,"position":1,"volume":33100,"traffic":2151,"kd":34,"cpc":2.84,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon)"}
+{"keyword":"destined rivals","page":4,"position":5,"volume":60500,"traffic":2117,"kd":40,"cpc":0.44,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Destined_Rivals_(TCG)"}
+{"keyword":"mega gardevoir","page":4,"position":2,"volume":14800,"traffic":1953,"kd":27,"cpc":0.65,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon)"}
+{"keyword":"teddiursa","page":4,"position":1,"volume":14800,"traffic":1953,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Teddiursa_(Pok%C3%A9mon)"}
+{"keyword":"maushold","page":4,"position":1,"volume":14800,"traffic":1953,"kd":25,"cpc":2.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Maushold_(Pok%C3%A9mon)"}
+{"keyword":"whimsicott","page":4,"position":1,"volume":14800,"traffic":1953,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Whimsicott_(Pok%C3%A9mon)"}
+{"keyword":"fezandipiti","page":4,"position":1,"volume":14800,"traffic":1953,"kd":37,"cpc":1.15,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fezandipiti_(Pok%C3%A9mon)"}
+{"keyword":"audino","page":4,"position":2,"volume":14800,"traffic":1953,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Audino_(Pok%C3%A9mon)"}
+{"keyword":"ludicolo","page":4,"position":1,"volume":14800,"traffic":1953,"kd":30,"cpc":1.58,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ludicolo_(Pok%C3%A9mon)"}
+{"keyword":"fighting type are weak against","page":4,"position":1,"volume":14800,"traffic":1953,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fighting_(type)"}
+{"keyword":"lurantis","page":4,"position":2,"volume":14800,"traffic":1953,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lurantis_(Pok%C3%A9mon)"}
+{"keyword":"blissey","page":4,"position":1,"volume":14800,"traffic":1953,"kd":38,"cpc":0.33,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pok%C3%A9mon)"}
+{"keyword":"gastrodon","page":4,"position":2,"volume":14800,"traffic":1953,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gastrodon_(Pok%C3%A9mon)"}
+{"keyword":"shuckle","page":4,"position":1,"volume":14800,"traffic":1953,"kd":26,"cpc":1.16,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pok%C3%A9mon)"}
+{"keyword":"fossil pokemon","page":4,"position":1,"volume":14800,"traffic":1953,"kd":33,"cpc":0.68,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fossil"}
+{"keyword":"keldeo","page":4,"position":1,"volume":14800,"traffic":1953,"kd":37,"cpc":1.13,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Keldeo_(Pok%C3%A9mon)"}
+{"keyword":"mega absol","page":4,"position":2,"volume":14800,"traffic":1953,"kd":36,"cpc":0.69,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)"}
+{"keyword":"ultra beasts","page":4,"position":1,"volume":14800,"traffic":1953,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ultra_Beast"}
+{"keyword":"steel type pokemon","page":4,"position":2,"volume":14800,"traffic":1953,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Steel_(type)"}
+{"keyword":"mamoswine","page":4,"position":1,"volume":14800,"traffic":1953,"kd":38,"cpc":4.53,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mamoswine_(Pok%C3%A9mon)"}
+{"keyword":"medicham","page":4,"position":1,"volume":14800,"traffic":1953,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Medicham_(Pok%C3%A9mon)"}
+{"keyword":"despotar","page":4,"position":1,"volume":14800,"traffic":1953,"kd":27,"cpc":1.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tyranitar_(Pok%C3%A9mon)"}
+{"keyword":"shinx","page":4,"position":2,"volume":14800,"traffic":1953,"kd":26,"cpc":0.68,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon)"}
+{"keyword":"grafaiai","page":4,"position":2,"volume":14800,"traffic":1953,"kd":31,"cpc":1.36,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grafaiai_(Pok%C3%A9mon)"}
+{"keyword":"alolan vulpix","page":4,"position":1,"volume":14800,"traffic":1953,"kd":32,"cpc":0.72,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)"}
+{"keyword":"dracovish","page":4,"position":1,"volume":14800,"traffic":1953,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dracovish_(Pok%C3%A9mon)"}
+{"keyword":"staraptor","page":4,"position":2,"volume":14800,"traffic":1953,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Staraptor_(Pok%C3%A9mon)"}
+{"keyword":"furfrou","page":4,"position":1,"volume":14800,"traffic":1953,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Furfrou_(Pok%C3%A9mon)"}
+{"keyword":"glimmora","page":4,"position":2,"volume":14800,"traffic":1953,"kd":25,"cpc":2.03,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Glimmora_(Pok%C3%A9mon)"}
+{"keyword":"enamorus","page":4,"position":1,"volume":14800,"traffic":1953,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Enamorus_(Pok%C3%A9mon)"}
+{"keyword":"chespin","page":4,"position":1,"volume":14800,"traffic":1953,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pok%C3%A9mon)"}
+{"keyword":"ultra necrozma","page":4,"position":1,"volume":14800,"traffic":1953,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pok%C3%A9mon)"}
+{"keyword":"misty pokemon","page":4,"position":1,"volume":22200,"traffic":1820,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Misty"}
+{"keyword":"crobat","page":4,"position":2,"volume":22200,"traffic":1820,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Crobat_(Pok%C3%A9mon)"}
+{"keyword":"mega rayquaza","page":4,"position":2,"volume":22200,"traffic":1820,"kd":40,"cpc":0.66,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)"}
+{"keyword":"pokemon gen 10","page":4,"position":2,"volume":22200,"traffic":1820,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Generation_X"}
+{"keyword":"pokemon nature chart","page":4,"position":2,"volume":22200,"traffic":1820,"kd":14,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nature"}
+{"keyword":"cynthia pokemon","page":4,"position":1,"volume":22200,"traffic":1820,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cynthia"}
+{"keyword":"sun and moon","page":4,"position":2,"volume":22200,"traffic":1820,"kd":38,"cpc":0.68,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Sun_and_Moon"}
+{"keyword":"spheal","page":4,"position":2,"volume":22200,"traffic":1820,"kd":36,"cpc":0.77,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Spheal_(Pok%C3%A9mon)"}
+{"keyword":"empoleon","page":4,"position":2,"volume":22200,"traffic":1820,"kd":35,"cpc":1.82,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Empoleon_(Pok%C3%A9mon)"}
+{"keyword":"mega raichu","page":4,"position":2,"volume":22200,"traffic":1820,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)"}
+{"keyword":"pokemon characters","page":5,"position":5,"volume":60500,"traffic":1815,"kd":37,"cpc":0.69,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Browse:Characters"}
+{"keyword":"eeveelutions","page":5,"position":2,"volume":40500,"traffic":1782,"kd":36,"cpc":1.17,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Eeveelution"}
+{"keyword":"mega feraligatr","page":5,"position":3,"volume":27100,"traffic":1761,"kd":19,"cpc":0.57,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon)"}
+{"keyword":"jangmo-o","page":5,"position":1,"volume":12100,"traffic":1597,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Jangmo-o_(Pok%C3%A9mon)"}
+{"keyword":"electrode pokemon","page":5,"position":2,"volume":12100,"traffic":1597,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Electrode_(Pok%C3%A9mon)"}
+{"keyword":"obstagoon","page":5,"position":2,"volume":12100,"traffic":1597,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Obstagoon_(Pok%C3%A9mon)"}
+{"keyword":"galvantula","page":5,"position":2,"volume":12100,"traffic":1597,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Galvantula_(Pok%C3%A9mon)"}
+{"keyword":"girafarig","page":5,"position":1,"volume":12100,"traffic":1597,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Girafarig_(Pok%C3%A9mon)"}
+{"keyword":"nemona","page":5,"position":1,"volume":12100,"traffic":1597,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nemona"}
+{"keyword":"steel type weakness","page":5,"position":1,"volume":12100,"traffic":1597,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Steel_(type)"}
+{"keyword":"abomasnow","page":5,"position":2,"volume":12100,"traffic":1597,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Abomasnow_(Pok%C3%A9mon)"}
+{"keyword":"togepi evolution","page":5,"position":1,"volume":12100,"traffic":1597,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pok%C3%A9mon)"}
+{"keyword":"roaring moon","page":5,"position":1,"volume":12100,"traffic":1597,"kd":32,"cpc":0.53,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Roaring_Moon_(Pok%C3%A9mon)"}
+{"keyword":"shroomish","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Shroomish_(Pok%C3%A9mon)"}
+{"keyword":"pseudo legendary pokemon","page":5,"position":2,"volume":12100,"traffic":1597,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pseudo-legendary_Pok%C3%A9mon"}
+{"keyword":"gligar","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0.14,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pok%C3%A9mon)"}
+{"keyword":"toxicroak","page":5,"position":2,"volume":12100,"traffic":1597,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Toxicroak_(Pok%C3%A9mon)"}
+{"keyword":"darumaka","page":5,"position":1,"volume":12100,"traffic":1597,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Darumaka_(Pok%C3%A9mon)"}
+{"keyword":"sharpedo","page":5,"position":2,"volume":12100,"traffic":1597,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pok%C3%A9mon)"}
+{"keyword":"frigibax","page":5,"position":1,"volume":12100,"traffic":1597,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Frigibax_(Pok%C3%A9mon)"}
+{"keyword":"pombon","page":5,"position":1,"volume":12100,"traffic":1597,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pombon_(Pok%C3%A9mon)"}
+{"keyword":"roar moon","page":5,"position":2,"volume":12100,"traffic":1597,"kd":33,"cpc":0.53,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Roaring_Moon_(Pok%C3%A9mon)"}
+{"keyword":"toxapex","page":5,"position":2,"volume":12100,"traffic":1597,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Toxapex_(Pok%C3%A9mon)"}
+{"keyword":"wiglett","page":5,"position":1,"volume":12100,"traffic":1597,"kd":35,"cpc":0.46,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Wiglett_(Pok%C3%A9mon)"}
+{"keyword":"yamper","page":5,"position":1,"volume":12100,"traffic":1597,"kd":30,"cpc":0.72,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Yamper_(Pok%C3%A9mon)"}
+{"keyword":"squirtle squad","page":5,"position":1,"volume":12100,"traffic":1597,"kd":39,"cpc":0.66,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Squirtle_Squad"}
+{"keyword":"pokemon leaf","page":5,"position":1,"volume":12100,"traffic":1597,"kd":39,"cpc":0.56,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Leaf_(game)"}
+{"keyword":"magmortar","page":5,"position":1,"volume":12100,"traffic":1597,"kd":31,"cpc":4.22,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magmortar_(Pok%C3%A9mon)"}
+{"keyword":"cosmog","page":5,"position":1,"volume":12100,"traffic":1597,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cosmog_(Pok%C3%A9mon)"}
+{"keyword":"sneasler","page":5,"position":1,"volume":12100,"traffic":1597,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Sneasler_(Pok%C3%A9mon)"}
+{"keyword":"bronzong","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bronzong_(Pok%C3%A9mon)"}
+{"keyword":"houndour","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Houndour_(Pok%C3%A9mon)"}
+{"keyword":"minior","page":5,"position":2,"volume":12100,"traffic":1597,"kd":26,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Minior_(Pok%C3%A9mon)"}
+{"keyword":"tyrogue","page":5,"position":2,"volume":12100,"traffic":1597,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tyrogue_(Pok%C3%A9mon)"}
+{"keyword":"bruxish","page":5,"position":1,"volume":12100,"traffic":1597,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bruxish_(Pok%C3%A9mon)"}
+{"keyword":"dawn pokemon","page":5,"position":1,"volume":12100,"traffic":1597,"kd":33,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dawn_(anime)"}
+{"keyword":"grookey","page":5,"position":1,"volume":12100,"traffic":1597,"kd":32,"cpc":0.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon)"}
+{"keyword":"rookidee","page":5,"position":2,"volume":12100,"traffic":1597,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rookidee_(Pok%C3%A9mon)"}
+{"keyword":"melmetal","page":5,"position":1,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Melmetal_(Pok%C3%A9mon)"}
+{"keyword":"klefki","page":5,"position":1,"volume":12100,"traffic":1597,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Klefki_(Pok%C3%A9mon)"}
+{"keyword":"stunfisk","page":5,"position":1,"volume":12100,"traffic":1597,"kd":27,"cpc":1.02,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Stunfisk_(Pok%C3%A9mon)"}
+{"keyword":"indeedee","page":5,"position":1,"volume":12100,"traffic":1597,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Indeedee_(Pok%C3%A9mon)"}
+{"keyword":"darmanitan","page":5,"position":2,"volume":12100,"traffic":1597,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon)"}
+{"keyword":"gabite","page":5,"position":1,"volume":12100,"traffic":1597,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gabite_(Pok%C3%A9mon)"}
+{"keyword":"dhelmise","page":5,"position":1,"volume":12100,"traffic":1597,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dhelmise_(Pok%C3%A9mon)"}
+{"keyword":"tapu lele","page":5,"position":1,"volume":12100,"traffic":1597,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tapu_Lele_(Pok%C3%A9mon)"}
+{"keyword":"skitty","page":5,"position":2,"volume":12100,"traffic":1597,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon)"}
+{"keyword":"terrakion","page":5,"position":1,"volume":12100,"traffic":1597,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Terrakion_(Pok%C3%A9mon)"}
+{"keyword":"flying type weakness","page":5,"position":1,"volume":12100,"traffic":1597,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Flying_(type)"}
+{"keyword":"tynamo","page":5,"position":2,"volume":12100,"traffic":1597,"kd":31,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Tynamo_(Pok%C3%A9mon)"}
+{"keyword":"furret","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Furret_(Pok%C3%A9mon)"}
+{"keyword":"raging bolt","page":5,"position":1,"volume":12100,"traffic":1597,"kd":32,"cpc":2.51,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Raging_Bolt_(Pok%C3%A9mon)"}
+{"keyword":"scovillain","page":5,"position":2,"volume":12100,"traffic":1597,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scovillain_(Pok%C3%A9mon)"}
+{"keyword":"bug pokemon","page":5,"position":2,"volume":12100,"traffic":1597,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bug_(type)"}
+{"keyword":"toxel","page":5,"position":1,"volume":12100,"traffic":1597,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Toxel_(Pok%C3%A9mon)"}
+{"keyword":"mega skarmory","page":5,"position":1,"volume":12100,"traffic":1597,"kd":28,"cpc":0.57,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Skarmory_(Pok%C3%A9mon)"}
+{"keyword":"bellibolt","page":5,"position":2,"volume":12100,"traffic":1597,"kd":30,"cpc":1.26,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bellibolt_(Pok%C3%A9mon)"}
+{"keyword":"garganacl","page":5,"position":2,"volume":12100,"traffic":1597,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garganacl_(Pok%C3%A9mon)"}
+{"keyword":"krookodile","page":5,"position":2,"volume":18100,"traffic":1484,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Krookodile_(Pok%C3%A9mon)"}
+{"keyword":"meloetta","page":5,"position":2,"volume":18100,"traffic":1484,"kd":35,"cpc":1.22,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Meloetta_(Pok%C3%A9mon)"}
+{"keyword":"hisuian zoroark","page":5,"position":2,"volume":18100,"traffic":1484,"kd":27,"cpc":0.6,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zoroark_(Pok%C3%A9mon)"}
+{"keyword":"weavile","page":5,"position":2,"volume":18100,"traffic":1484,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Weavile_(Pok%C3%A9mon)"}
+{"keyword":"honedge","page":5,"position":3,"volume":18100,"traffic":1484,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Honedge_(Pok%C3%A9mon)"}
+{"keyword":"dragon type pokemon","page":5,"position":3,"volume":18100,"traffic":1484,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dragon_(type)"}
+{"keyword":"dark type weakness","page":5,"position":2,"volume":22200,"traffic":1443,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dark_(type)"}
+{"keyword":"calm nature pokemon","page":5,"position":2,"volume":22200,"traffic":1443,"kd":19,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nature"}
+{"keyword":"feraligatr mega","page":5,"position":2,"volume":14800,"traffic":1213,"kd":19,"cpc":0.57,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Feraligatr_(Pok%C3%A9mon)"}
+{"keyword":"steel pokemon with this type","page":5,"position":2,"volume":14800,"traffic":1213,"kd":23,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Steel_(type)"}
+{"keyword":"diglet","page":5,"position":2,"volume":14800,"traffic":1213,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon)"}
+{"keyword":"poison weakness","page":5,"position":2,"volume":14800,"traffic":1213,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Poison_(type)"}
+{"keyword":"bulbasaur evolution","page":5,"position":2,"volume":14800,"traffic":1213,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)"}
+{"keyword":"pumpkaboo","page":5,"position":2,"volume":14800,"traffic":1213,"kd":34,"cpc":0,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon)"}
+{"keyword":"nidoran female","page":5,"position":1,"volume":14800,"traffic":1213,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)"}
+{"keyword":"red pokemon","page":5,"position":2,"volume":14800,"traffic":1213,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Red_(game)"}
+{"keyword":"torkoal","page":5,"position":2,"volume":14800,"traffic":1213,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Torkoal_(Pok%C3%A9mon)"}
+{"keyword":"treecko","page":5,"position":2,"volume":14800,"traffic":1213,"kd":28,"cpc":1.31,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pok%C3%A9mon)"}
+{"keyword":"mega garchomp","page":5,"position":2,"volume":14800,"traffic":1213,"kd":24,"cpc":0.98,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon)"}
+{"keyword":"mega absol z","page":5,"position":2,"volume":14800,"traffic":1213,"kd":35,"cpc":0,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon)"}
+{"keyword":"scorbunny","page":5,"position":1,"volume":27100,"traffic":1192,"kd":27,"cpc":0.72,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pok%C3%A9mon)"}
+{"keyword":"serena pokemon","page":5,"position":2,"volume":18100,"traffic":1176,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Serena_(anime)"}
+{"keyword":"missingno","page":5,"position":2,"volume":12100,"traffic":992,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/MissingNo."}
+{"keyword":"pokemon ruby sapphire box","page":5,"position":1,"volume":12100,"traffic":992,"kd":39,"cpc":0.67,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Box_Ruby_%26_Sapphire"}
+{"keyword":"helioptile","page":5,"position":2,"volume":12100,"traffic":992,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Helioptile_(Pok%C3%A9mon)"}
+{"keyword":"virizion","page":5,"position":2,"volume":12100,"traffic":992,"kd":38,"cpc":19.74,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Virizion_(Pok%C3%A9mon)"}
+{"keyword":"cyclizar","page":5,"position":2,"volume":12100,"traffic":992,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cyclizar_(Pok%C3%A9mon)"}
+{"keyword":"braixen","page":5,"position":2,"volume":12100,"traffic":992,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Braixen_(Pok%C3%A9mon)"}
+{"keyword":"bug type pokemon","page":5,"position":3,"volume":12100,"traffic":992,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Bug_(type)"}
+{"keyword":"grintina","page":5,"position":2,"volume":12100,"traffic":992,"kd":36,"cpc":1.02,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pok%C3%A9mon)"}
+{"keyword":"honedge evolution","page":5,"position":2,"volume":12100,"traffic":992,"kd":32,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Honedge_(Pok%C3%A9mon)"}
+{"keyword":"mega venusaur","page":5,"position":2,"volume":12100,"traffic":992,"kd":30,"cpc":0.83,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)"}
+{"keyword":"grass pokemon with this type","page":5,"position":2,"volume":12100,"traffic":992,"kd":23,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grass_(type)"}
+{"keyword":"dragon pokemon with this type","page":5,"position":2,"volume":12100,"traffic":992,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dragon_(type)"}
+{"keyword":"fighting pokemon with this type","page":5,"position":2,"volume":12100,"traffic":992,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fighting_(type)"}
+{"keyword":"cresselia","page":5,"position":2,"volume":12100,"traffic":992,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pok%C3%A9mon)"}
+{"keyword":"fire pokemon","page":5,"position":2,"volume":12100,"traffic":992,"kd":23,"cpc":0.62,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"}
+{"keyword":"flutter mane","page":5,"position":2,"volume":12100,"traffic":992,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Flutter_Mane_(Pok%C3%A9mon)"}
+{"keyword":"seismitoad","page":5,"position":3,"volume":12100,"traffic":992,"kd":33,"cpc":0.72,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Seismitoad_(Pok%C3%A9mon)"}
+{"keyword":"drapion","page":5,"position":2,"volume":12100,"traffic":992,"kd":34,"cpc":3.68,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Drapion_(Pok%C3%A9mon)"}
+{"keyword":"ribombee","page":5,"position":2,"volume":12100,"traffic":992,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pok%C3%A9mon)"}
+{"keyword":"pancham evolution","page":5,"position":2,"volume":12100,"traffic":992,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pancham_(Pok%C3%A9mon)"}
+{"keyword":"fairy pokemon","page":6,"position":2,"volume":12100,"traffic":992,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"golem pokémon","page":6,"position":2,"volume":12100,"traffic":992,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Golem_(Pok%C3%A9mon)"}
+{"keyword":"type chart","page":6,"position":4,"volume":22200,"traffic":976,"kd":40,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart"}
+{"keyword":"mega darkrai","page":6,"position":4,"volume":22200,"traffic":976,"kd":20,"cpc":1.36,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pok%C3%A9mon)"}
+{"keyword":"mega charizard","page":6,"position":5,"volume":22200,"traffic":976,"kd":37,"cpc":0.63,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"}
+{"keyword":"fairy type weakness","page":6,"position":3,"volume":22200,"traffic":976,"kd":23,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"mega lizardon y","page":6,"position":2,"volume":14800,"traffic":962,"kd":30,"cpc":0.77,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"}
+{"keyword":"mega delphox","page":6,"position":4,"volume":14800,"traffic":962,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon)"}
+{"keyword":"fairy pokemon with this type","page":6,"position":2,"volume":14800,"traffic":962,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"weakness dark type","page":6,"position":1,"volume":14800,"traffic":962,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Dark_(type)"}
+{"keyword":"ralts evolution","page":6,"position":2,"volume":14800,"traffic":962,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pok%C3%A9mon)"}
+{"keyword":"ground type weakness","page":6,"position":3,"volume":14800,"traffic":962,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ground_(type)"}
+{"keyword":"fighting type pokemon","page":6,"position":4,"volume":14800,"traffic":962,"kd":18,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fighting_(type)"}
+{"keyword":"weakness of ghost type","page":6,"position":2,"volume":14800,"traffic":962,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ghost_(type)"}
+{"keyword":"charizard x","page":6,"position":3,"volume":14800,"traffic":962,"kd":38,"cpc":0.77,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"}
+{"keyword":"kleavor","page":6,"position":2,"volume":14800,"traffic":962,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Kleavor_(Pok%C3%A9mon)"}
+{"keyword":"mega greninja","page":6,"position":5,"volume":27100,"traffic":948,"kd":26,"cpc":1.3,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon)"}
+{"keyword":"docile nature pokemon","page":6,"position":3,"volume":18100,"traffic":796,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nature"}
+{"keyword":"weakness fairy type","page":6,"position":3,"volume":18100,"traffic":796,"kd":23,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"mega scrafty","page":6,"position":4,"volume":18100,"traffic":796,"kd":21,"cpc":0.65,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Scrafty_(Pok%C3%A9mon)"}
+{"keyword":"fairy weakness","page":6,"position":3,"volume":18100,"traffic":796,"kd":23,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"all starter pokemon","page":6,"position":4,"volume":18100,"traffic":796,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/First_partner_Pok%C3%A9mon"}
+{"keyword":"quiet nature pokemon","page":6,"position":3,"volume":18100,"traffic":796,"kd":16,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nature"}
+{"keyword":"ghost type weakness","page":6,"position":3,"volume":18100,"traffic":796,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ghost_(type)"}
+{"keyword":"electric type weakness","page":6,"position":2,"volume":12100,"traffic":786,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Electric_(type)"}
+{"keyword":"mega gyarados","page":6,"position":3,"volume":12100,"traffic":786,"kd":33,"cpc":0.69,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon)"}
+{"keyword":"mega froslass","page":6,"position":4,"volume":12100,"traffic":786,"kd":20,"cpc":0.65,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Froslass_(Pok%C3%A9mon)"}
+{"keyword":"alpha pokemon","page":6,"position":3,"volume":12100,"traffic":786,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Alpha_Pok%C3%A9mon"}
+{"keyword":"mudkip evolution","page":6,"position":2,"volume":12100,"traffic":786,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon)"}
+{"keyword":"magikarp evolution","page":6,"position":2,"volume":12100,"traffic":786,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)"}
+{"keyword":"grookey's","page":6,"position":2,"volume":12100,"traffic":786,"kd":23,"cpc":0.32,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon)"}
+{"keyword":"quaxly evolution","page":6,"position":2,"volume":12100,"traffic":786,"kd":28,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon)"}
+{"keyword":"mega zygarde","page":6,"position":5,"volume":22200,"traffic":777,"kd":33,"cpc":0.57,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zygarde_(Pok%C3%A9mon)"}
+{"keyword":"rock pokemon","page":6,"position":3,"volume":14800,"traffic":651,"kd":21,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rock_(type)"}
+{"keyword":"páras","page":6,"position":4,"volume":27100,"traffic":596,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Paras_(Pok%C3%A9mon)"}
+{"keyword":"mega garchomp z","page":6,"position":5,"volume":18100,"traffic":543,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon)"}
+{"keyword":"totodile evolution","page":6,"position":3,"volume":12100,"traffic":532,"kd":37,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pok%C3%A9mon)"}
+{"keyword":"pokemon ultra sun and","page":6,"position":5,"volume":12100,"traffic":532,"kd":39,"cpc":0.29,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon"}
+{"keyword":"evolution rockruff","page":6,"position":3,"volume":12100,"traffic":532,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon)"}
+{"keyword":"mega zeraora","page":6,"position":3,"volume":12100,"traffic":532,"kd":21,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Zeraora_(Pok%C3%A9mon)"}
+{"keyword":"weakness of fairy","page":6,"position":3,"volume":12100,"traffic":532,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fairy_(type)"}
+{"keyword":"psyduck evolution","page":6,"position":2,"volume":12100,"traffic":532,"kd":25,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Psyduck_(Pok%C3%A9mon)"}
+{"keyword":"onyx pokemon","page":6,"position":4,"volume":12100,"traffic":532,"kd":36,"cpc":0.51,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Onix_(Pok%C3%A9mon)"}
+{"keyword":"galarian moltres","page":6,"position":5,"volume":14800,"traffic":518,"kd":31,"cpc":0.89,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Moltres_(Pok%C3%A9mon)"}
+{"keyword":"all pokemon starters","page":6,"position":5,"volume":14800,"traffic":444,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/First_partner_Pok%C3%A9mon"}
+{"keyword":"whos that pokemon","page":6,"position":5,"volume":14800,"traffic":444,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Who%27s_That_Pok%C3%A9mon%3F"}
+{"keyword":"pokemon crystal","page":6,"position":5,"volume":18100,"traffic":434,"kd":39,"cpc":0.22,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Crystal_Version"}
+{"keyword":"careful nature pokemon","page":6,"position":3,"volume":18100,"traffic":434,"kd":22,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Nature"}
+{"keyword":"mega lucario z","page":6,"position":2,"volume":18100,"traffic":434,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Lucario_(Pok%C3%A9mon)"}
+{"keyword":"ho oh ho oh","page":6,"position":2,"volume":18100,"traffic":434,"kd":38,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pok%C3%A9mon)"}
+{"keyword":"t a u n t","page":6,"position":3,"volume":12100,"traffic":423,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Taunt_(move)"}
+{"keyword":"chikorita evolution","page":6,"position":3,"volume":12100,"traffic":423,"kd":26,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Pok%C3%A9mon)"}
+{"keyword":"ancient mew","page":6,"position":4,"volume":22200,"traffic":421,"kd":31,"cpc":0.22,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Ancient_Mew_(The_Power_of_One_promo)"}
+{"keyword":"all pokemon types","page":6,"position":4,"volume":12100,"traffic":363,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Type"}
+{"keyword":"paraš","page":6,"position":5,"volume":14800,"traffic":355,"kd":35,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Paras_(Pok%C3%A9mon)"}
+{"keyword":"lizardon mega","page":6,"position":4,"volume":14800,"traffic":355,"kd":27,"cpc":0.63,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"}
+{"keyword":"hypno's","page":6,"position":3,"volume":14800,"traffic":355,"kd":39,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Hypno_(Pok%C3%A9mon)"}
+{"keyword":"snorunt evolution","page":6,"position":2,"volume":14800,"traffic":355,"kd":23,"cpc":0,"intents":[0,1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Snorunt_(Pok%C3%A9mon)"}
+{"keyword":"shiny umbreon","page":6,"position":3,"volume":14800,"traffic":325,"kd":29,"cpc":0.82,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Umbreon_(Pok%C3%A9mon)"}
+{"keyword":"evolved geodude","page":6,"position":4,"volume":14800,"traffic":325,"kd":24,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)"}
+{"keyword":"torterra","page":6,"position":2,"volume":18100,"traffic":325,"kd":39,"cpc":1.97,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Torterra_(Pok%C3%A9mon)"}
+{"keyword":"psychic weakness","page":6,"position":3,"volume":22200,"traffic":288,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Psychic_(type)"}
+{"keyword":"geodude evolution","page":6,"position":4,"volume":14800,"traffic":281,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)"}
+{"keyword":"151 charizard","page":6,"position":5,"volume":14800,"traffic":281,"kd":35,"cpc":0.6,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_ex_(151_6)"}
+{"keyword":"gen 7 pokemon","page":6,"position":5,"volume":14800,"traffic":281,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Generation_VII"}
+{"keyword":"magikarp when i evolve","page":6,"position":4,"volume":12100,"traffic":229,"kd":21,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)"}
+{"keyword":"pokemon charizard","page":6,"position":4,"volume":12100,"traffic":229,"kd":33,"cpc":0.65,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)"}
+{"keyword":"slowpoke evolution","page":6,"position":5,"volume":12100,"traffic":229,"kd":36,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pok%C3%A9mon)"}
+{"keyword":"pokemon colosseum","page":6,"position":5,"volume":18100,"traffic":162,"kd":35,"cpc":0.24,"intents":[1,3],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Colosseum"}
+{"keyword":"pokemon conquest","page":6,"position":5,"volume":12100,"traffic":157,"kd":35,"cpc":0.3,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Conquest"}
+{"keyword":"litleo evolution","page":6,"position":5,"volume":12100,"traffic":108,"kd":30,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pok%C3%A9mon)"}
+{"keyword":"fuecoco evolution","page":6,"position":4,"volume":12100,"traffic":84,"kd":29,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Fuecoco_(Pok%C3%A9mon)"}
+{"keyword":"acrobatics","page":6,"position":4,"volume":12100,"traffic":84,"kd":33,"cpc":1.22,"intents":[0],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Acrobatics_(move)"}
+{"keyword":"charmander evolution","page":6,"position":3,"volume":12100,"traffic":84,"kd":31,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"}
+{"keyword":"shiny garchomp","page":6,"position":5,"volume":12100,"traffic":60,"kd":27,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon)"}
+{"keyword":"budew evolution","page":6,"position":4,"volume":12100,"traffic":60,"kd":33,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Budew_(Pok%C3%A9mon)"}
+{"keyword":"cynthia's garchomp","page":6,"position":5,"volume":12100,"traffic":48,"kd":35,"cpc":0.55,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Cynthia%27s_Garchomp"}
+{"keyword":"squirtle evolution","page":6,"position":4,"volume":18100,"traffic":27,"kd":34,"cpc":0,"intents":[1],"redditUrl":"https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)"}

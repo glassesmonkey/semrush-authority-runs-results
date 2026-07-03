@@ -1,0 +1,286 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/en.wikipedia.org/first-pass-results",
+  "files": 55,
+  "rawLines": 1780,
+  "mergedCount": 1780,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/en.wikipedia.org/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 45,
+      "accepted": 45
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 38,
+      "accepted": 38
+    },
+    {
+      "file": "chunk-02.jsonl",
+      "lines": 44,
+      "accepted": 44
+    },
+    {
+      "file": "chunk-03.jsonl",
+      "lines": 25,
+      "accepted": 25
+    },
+    {
+      "file": "chunk-04.jsonl",
+      "lines": 37,
+      "accepted": 37
+    },
+    {
+      "file": "chunk-05.jsonl",
+      "lines": 13,
+      "accepted": 13
+    },
+    {
+      "file": "chunk-06.jsonl",
+      "lines": 37,
+      "accepted": 37
+    },
+    {
+      "file": "chunk-07.jsonl",
+      "lines": 35,
+      "accepted": 35
+    },
+    {
+      "file": "chunk-08.jsonl",
+      "lines": 6,
+      "accepted": 6
+    },
+    {
+      "file": "chunk-09.jsonl",
+      "lines": 52,
+      "accepted": 52
+    },
+    {
+      "file": "chunk-10.jsonl",
+      "lines": 16,
+      "accepted": 16
+    },
+    {
+      "file": "chunk-11.jsonl",
+      "lines": 28,
+      "accepted": 28
+    },
+    {
+      "file": "chunk-12.jsonl",
+      "lines": 28,
+      "accepted": 28
+    },
+    {
+      "file": "chunk-13.jsonl",
+      "lines": 40,
+      "accepted": 40
+    },
+    {
+      "file": "chunk-14.jsonl",
+      "lines": 21,
+      "accepted": 21
+    },
+    {
+      "file": "chunk-15.jsonl",
+      "lines": 19,
+      "accepted": 19
+    },
+    {
+      "file": "chunk-16.jsonl",
+      "lines": 27,
+      "accepted": 27
+    },
+    {
+      "file": "chunk-17.jsonl",
+      "lines": 24,
+      "accepted": 24
+    },
+    {
+      "file": "chunk-18.jsonl",
+      "lines": 43,
+      "accepted": 43
+    },
+    {
+      "file": "chunk-19.jsonl",
+      "lines": 59,
+      "accepted": 59
+    },
+    {
+      "file": "chunk-20.jsonl",
+      "lines": 11,
+      "accepted": 11
+    },
+    {
+      "file": "chunk-21.jsonl",
+      "lines": 10,
+      "accepted": 10
+    },
+    {
+      "file": "chunk-22.jsonl",
+      "lines": 43,
+      "accepted": 43
+    },
+    {
+      "file": "chunk-23.jsonl",
+      "lines": 64,
+      "accepted": 64
+    },
+    {
+      "file": "chunk-24.jsonl",
+      "lines": 21,
+      "accepted": 21
+    },
+    {
+      "file": "chunk-25.jsonl",
+      "lines": 12,
+      "accepted": 12
+    },
+    {
+      "file": "chunk-26.jsonl",
+      "lines": 9,
+      "accepted": 9
+    },
+    {
+      "file": "chunk-27.jsonl",
+      "lines": 47,
+      "accepted": 47
+    },
+    {
+      "file": "chunk-28.jsonl",
+      "lines": 29,
+      "accepted": 29
+    },
+    {
+      "file": "chunk-29.jsonl",
+      "lines": 27,
+      "accepted": 27
+    },
+    {
+      "file": "chunk-30.jsonl",
+      "lines": 40,
+      "accepted": 40
+    },
+    {
+      "file": "chunk-31.jsonl",
+      "lines": 43,
+      "accepted": 43
+    },
+    {
+      "file": "chunk-32.jsonl",
+      "lines": 31,
+      "accepted": 31
+    },
+    {
+      "file": "chunk-33.jsonl",
+      "lines": 39,
+      "accepted": 39
+    },
+    {
+      "file": "chunk-34.jsonl",
+      "lines": 37,
+      "accepted": 37
+    },
+    {
+      "file": "chunk-35.jsonl",
+      "lines": 56,
+      "accepted": 56
+    },
+    {
+      "file": "chunk-36.jsonl",
+      "lines": 46,
+      "accepted": 46
+    },
+    {
+      "file": "chunk-37.jsonl",
+      "lines": 54,
+      "accepted": 54
+    },
+    {
+      "file": "chunk-38.jsonl",
+      "lines": 34,
+      "accepted": 34
+    },
+    {
+      "file": "chunk-39.jsonl",
+      "lines": 35,
+      "accepted": 35
+    },
+    {
+      "file": "chunk-40.jsonl",
+      "lines": 41,
+      "accepted": 41
+    },
+    {
+      "file": "chunk-41.jsonl",
+      "lines": 46,
+      "accepted": 46
+    },
+    {
+      "file": "chunk-42.jsonl",
+      "lines": 30,
+      "accepted": 30
+    },
+    {
+      "file": "chunk-43.jsonl",
+      "lines": 40,
+      "accepted": 40
+    },
+    {
+      "file": "chunk-44.jsonl",
+      "lines": 44,
+      "accepted": 44
+    },
+    {
+      "file": "chunk-45.jsonl",
+      "lines": 37,
+      "accepted": 37
+    },
+    {
+      "file": "chunk-46.jsonl",
+      "lines": 34,
+      "accepted": 34
+    },
+    {
+      "file": "chunk-47.jsonl",
+      "lines": 25,
+      "accepted": 25
+    },
+    {
+      "file": "chunk-48.jsonl",
+      "lines": 15,
+      "accepted": 15
+    },
+    {
+      "file": "chunk-49.jsonl",
+      "lines": 37,
+      "accepted": 37
+    },
+    {
+      "file": "chunk-50.jsonl",
+      "lines": 25,
+      "accepted": 25
+    },
+    {
+      "file": "chunk-51.jsonl",
+      "lines": 33,
+      "accepted": 33
+    },
+    {
+      "file": "chunk-52.jsonl",
+      "lines": 20,
+      "accepted": 20
+    },
+    {
+      "file": "chunk-53.jsonl",
+      "lines": 17,
+      "accepted": 17
+    },
+    {
+      "file": "chunk-54.jsonl",
+      "lines": 11,
+      "accepted": 11
+    }
+  ]
+}

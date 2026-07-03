@@ -1,0 +1,21 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/bulbapedia.bulbagarden.net/first-pass-results",
+  "files": 2,
+  "rawLines": 11,
+  "mergedCount": 11,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/bulbapedia.bulbagarden.net/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 0,
+      "accepted": 0
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 11,
+      "accepted": 11
+    }
+  ]
+}

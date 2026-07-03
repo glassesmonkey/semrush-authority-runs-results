@@ -1,0 +1,16 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/allmusic.com/raw-rows.jsonl",
+  "inputRows": 16,
+  "uniqueRows": 16,
+  "skipped": [],
+  "chunkSize": 500,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/allmusic.com/chunks-500",
+  "chunks": [
+    {
+      "file": "chunk-00.jsonl",
+      "rows": 16
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/allmusic.com/unique-keywords.jsonl"
+}

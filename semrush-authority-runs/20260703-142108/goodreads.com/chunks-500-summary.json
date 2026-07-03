@@ -1,0 +1,16 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/goodreads.com/raw-rows.jsonl",
+  "inputRows": 502,
+  "uniqueRows": 500,
+  "skipped": [],
+  "chunkSize": 500,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/goodreads.com/chunks-500",
+  "chunks": [
+    {
+      "file": "chunk-00.jsonl",
+      "rows": 500
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/goodreads.com/unique-keywords.jsonl"
+}

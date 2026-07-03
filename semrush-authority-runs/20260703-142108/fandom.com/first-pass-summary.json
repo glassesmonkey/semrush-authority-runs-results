@@ -1,0 +1,61 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/fandom.com/first-pass-results",
+  "files": 10,
+  "rawLines": 99,
+  "mergedCount": 99,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/fandom.com/first-pass-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "chunk-00.jsonl",
+      "lines": 14,
+      "accepted": 14
+    },
+    {
+      "file": "chunk-01.jsonl",
+      "lines": 6,
+      "accepted": 6
+    },
+    {
+      "file": "chunk-02.jsonl",
+      "lines": 10,
+      "accepted": 10
+    },
+    {
+      "file": "chunk-03.jsonl",
+      "lines": 3,
+      "accepted": 3
+    },
+    {
+      "file": "chunk-04.jsonl",
+      "lines": 16,
+      "accepted": 16
+    },
+    {
+      "file": "chunk-05.jsonl",
+      "lines": 15,
+      "accepted": 15
+    },
+    {
+      "file": "chunk-06.jsonl",
+      "lines": 5,
+      "accepted": 5
+    },
+    {
+      "file": "chunk-07.jsonl",
+      "lines": 4,
+      "accepted": 4
+    },
+    {
+      "file": "chunk-08.jsonl",
+      "lines": 15,
+      "accepted": 15
+    },
+    {
+      "file": "chunk-09.jsonl",
+      "lines": 11,
+      "accepted": 11
+    }
+  ]
+}

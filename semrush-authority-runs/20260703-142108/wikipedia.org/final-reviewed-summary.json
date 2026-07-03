@@ -1,0 +1,106 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/final-review-results",
+  "files": 19,
+  "rawLines": 1462,
+  "mergedCount": 1462,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/final-reviewed-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "review-00.jsonl",
+      "lines": 92,
+      "accepted": 92
+    },
+    {
+      "file": "review-01.jsonl",
+      "lines": 96,
+      "accepted": 96
+    },
+    {
+      "file": "review-02.jsonl",
+      "lines": 99,
+      "accepted": 99
+    },
+    {
+      "file": "review-03.jsonl",
+      "lines": 99,
+      "accepted": 99
+    },
+    {
+      "file": "review-04.jsonl",
+      "lines": 91,
+      "accepted": 91
+    },
+    {
+      "file": "review-05.jsonl",
+      "lines": 89,
+      "accepted": 89
+    },
+    {
+      "file": "review-06.jsonl",
+      "lines": 96,
+      "accepted": 96
+    },
+    {
+      "file": "review-07.jsonl",
+      "lines": 64,
+      "accepted": 64
+    },
+    {
+      "file": "review-08.jsonl",
+      "lines": 59,
+      "accepted": 59
+    },
+    {
+      "file": "review-09.jsonl",
+      "lines": 49,
+      "accepted": 49
+    },
+    {
+      "file": "review-10.jsonl",
+      "lines": 79,
+      "accepted": 79
+    },
+    {
+      "file": "review-11.jsonl",
+      "lines": 61,
+      "accepted": 61
+    },
+    {
+      "file": "review-12.jsonl",
+      "lines": 61,
+      "accepted": 61
+    },
+    {
+      "file": "review-13.jsonl",
+      "lines": 78,
+      "accepted": 78
+    },
+    {
+      "file": "review-14.jsonl",
+      "lines": 58,
+      "accepted": 58
+    },
+    {
+      "file": "review-15.jsonl",
+      "lines": 89,
+      "accepted": 89
+    },
+    {
+      "file": "review-16.jsonl",
+      "lines": 88,
+      "accepted": 88
+    },
+    {
+      "file": "review-17.jsonl",
+      "lines": 90,
+      "accepted": 90
+    },
+    {
+      "file": "review-18.jsonl",
+      "lines": 24,
+      "accepted": 24
+    }
+  ]
+}

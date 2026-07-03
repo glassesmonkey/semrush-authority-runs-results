@@ -1,0 +1,88 @@
+{
+  "inputPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/first-pass-candidates.jsonl",
+  "inputRows": 1840,
+  "uniqueRows": 1840,
+  "skipped": [],
+  "chunkSize": 100,
+  "chunkFields": "keyword",
+  "chunksDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/final-review-chunks",
+  "chunks": [
+    {
+      "file": "review-00.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-01.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-02.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-03.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-04.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-05.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-06.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-07.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-08.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-09.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-10.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-11.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-12.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-13.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-14.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-15.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-16.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-17.jsonl",
+      "rows": 100
+    },
+    {
+      "file": "review-18.jsonl",
+      "rows": 40
+    }
+  ],
+  "uniqueOut": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/wikipedia.org/final-review-source.jsonl"
+}

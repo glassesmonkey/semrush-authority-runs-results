@@ -1,0 +1,101 @@
+{
+  "inputDir": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/en.wikipedia.org/final-review-results",
+  "files": 18,
+  "rawLines": 1427,
+  "mergedCount": 1427,
+  "duplicates": 0,
+  "outPath": "/Users/yxgc/Documents/AI/outsea/seo-keywords-sem-codex-catch/semrush-authority-runs/20260703-142108/en.wikipedia.org/final-reviewed-candidates.jsonl",
+  "errors": [],
+  "fileStats": [
+    {
+      "file": "review-00.jsonl",
+      "lines": 95,
+      "accepted": 95
+    },
+    {
+      "file": "review-01.jsonl",
+      "lines": 96,
+      "accepted": 96
+    },
+    {
+      "file": "review-02.jsonl",
+      "lines": 99,
+      "accepted": 99
+    },
+    {
+      "file": "review-03.jsonl",
+      "lines": 99,
+      "accepted": 99
+    },
+    {
+      "file": "review-04.jsonl",
+      "lines": 95,
+      "accepted": 95
+    },
+    {
+      "file": "review-05.jsonl",
+      "lines": 95,
+      "accepted": 95
+    },
+    {
+      "file": "review-06.jsonl",
+      "lines": 96,
+      "accepted": 96
+    },
+    {
+      "file": "review-07.jsonl",
+      "lines": 60,
+      "accepted": 60
+    },
+    {
+      "file": "review-08.jsonl",
+      "lines": 73,
+      "accepted": 73
+    },
+    {
+      "file": "review-09.jsonl",
+      "lines": 51,
+      "accepted": 51
+    },
+    {
+      "file": "review-10.jsonl",
+      "lines": 74,
+      "accepted": 74
+    },
+    {
+      "file": "review-11.jsonl",
+      "lines": 76,
+      "accepted": 76
+    },
+    {
+      "file": "review-12.jsonl",
+      "lines": 43,
+      "accepted": 43
+    },
+    {
+      "file": "review-13.jsonl",
+      "lines": 66,
+      "accepted": 66
+    },
+    {
+      "file": "review-14.jsonl",
+      "lines": 69,
+      "accepted": 69
+    },
+    {
+      "file": "review-15.jsonl",
+      "lines": 93,
+      "accepted": 93
+    },
+    {
+      "file": "review-16.jsonl",
+      "lines": 75,
+      "accepted": 75
+    },
+    {
+      "file": "review-17.jsonl",
+      "lines": 72,
+      "accepted": 72
+    }
+  ]
+}
