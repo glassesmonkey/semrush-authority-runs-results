@@ -1,0 +1,8 @@
+# SEMrush authority miner results
+#
+# Keep this repository report-only. Raw exports, chunk files, JSON, and JSONL
+# stay in the local run directory unless they are explicitly force-added.
+semrush-authority-runs/**/*
+!semrush-authority-runs/**/
+!semrush-authority-runs/**/serp-review-recommendations.md
+!semrush-authority-runs/**/opportunity-clusters.md
