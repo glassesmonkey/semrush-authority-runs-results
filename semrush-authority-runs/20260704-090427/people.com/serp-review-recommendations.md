@@ -1,0 +1,42 @@
+# SERP 复核推荐词簇
+
+二筛候选来源数：2
+推荐词簇数：2
+推荐关键词条目数：2
+
+| 优先级 | 词簇数 | 关键词条目数 |
+| --- | ---: | ---: |
+| P0 | 0 | 0 |
+| P1 | 2 | 2 |
+| P2 | 0 | 0 |
+
+优先级说明：
+- P0：优先复核；供给可控、维护有界、差异化清楚，且不是由排列组合搜索量硬抬上来。
+- P1：随后复核；机会成立，但数据供给、自然赢家或执行成本还需要确认。
+- P2：长尾、cluster seed 或需数据源确认；不是自动拒绝。
+
+## P1 - 食品召回品类追踪器
+
+- Canonical key: tracker/single_entity/product_recall_by_category/filterable_recall_table/product_category_or_brand
+- Badges: Supply=periodic_public_data; Freshness=event_bound; Control=medium; Winner=official_source; Permutation=medium
+- 页面形态：按食品类别和品牌筛选的召回追踪页，展示召回日期、原因、受影响产品、官方来源链接和订阅提醒。
+- 变现方式：广告、消费者安全提醒订阅、零售/替代品联盟导流
+- 为什么值得复核：Priority derived from semantic evidence; cap applied: natural winner is strong, but independent differentiation is credible.
+- 关键词条目数：1；总搜索量：14800；最高 CPC：0.42
+
+| 关键词 | 搜索量 | KD | CPC | Cap | 推荐页面形态 |
+| --- | ---: | ---: | ---: | --- | --- |
+| chocolates recalled | 14800 | 39 | 0.42 | cap_P1 | 按食品类别和品牌筛选的召回追踪页，展示召回日期、原因、受影响产品、官方来源链接和订阅提醒。 |
+
+## P1 - 生日星座日期查询
+
+- Canonical key: lookup/entity_date/zodiac_sign_by_birth_date/instant_answer_panel/birth_month_day
+- Badges: Supply=deterministic_logic; Freshness=none; Control=strong; Winner=independent_tool; Permutation=high
+- 页面形态：输入生日日期后立即返回星座、交界日期说明和相关日期范围的轻量查询工具。
+- 变现方式：广告、占星报告订阅、占星应用或内容联盟导流
+- 为什么值得复核：Priority derived from semantic evidence.
+- 关键词条目数：1；总搜索量：12100；最高 CPC：0
+
+| 关键词 | 搜索量 | KD | CPC | Cap | 推荐页面形态 |
+| --- | ---: | ---: | ---: | --- | --- |
+| zodiac feb 19th | 12100 | 32 | 0 | none | 输入生日日期后立即返回星座、交界日期说明和相关日期范围的轻量查询工具。 |
