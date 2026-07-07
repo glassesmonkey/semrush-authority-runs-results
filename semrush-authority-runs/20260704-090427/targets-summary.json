@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-07-04T01:06:26.014Z",
+  "rawLines": 405,
+  "rawTokens": 418,
+  "validTokens": 418,
+  "skippedTokens": 0,
+  "uniqueTargets": 396,
+  "domainTargets": 359,
+  "subdomainTargets": 37,
+  "pathFoldedTargets": 5,
+  "duplicateFoldedTargets": 20
+}

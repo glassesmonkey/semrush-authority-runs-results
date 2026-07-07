@@ -1,0 +1,74 @@
+{
+  "domain": "allrecipes.com",
+  "status": "completed",
+  "startedAt": "2026-07-05T09:24:05.154Z",
+  "completedAt": "2026-07-05T09:24:44.554Z",
+  "cdpBase": "http://127.0.0.1:9333",
+  "searchType": "domain",
+  "targetUrl": "https://sem.3ue.co/analytics/organic/positions/?sortField=traffic&filter=%7B%22search%22%3A%22%22%2C%22volume%22%3A%2210000-%22%2C%22positions%22%3A%22-5%22%2C%22positionsType%22%3A%22all%22%2C%22serpFeatures%22%3Anull%2C%22intent%22%3A%5B%22informational%22%2C%22commercial%22%2C%22transactional%22%5D%2C%22kd%22%3A%220-40%22%2C%22advanced%22%3A%7B%7D%7D&db=us&q=allrecipes.com&searchType=domain",
+  "pageSize": 100,
+  "maxPages": 10000,
+  "startPage": 1,
+  "append": false,
+  "minDelayMs": 1200,
+  "maxDelayMs": 4800,
+  "pagesFetched": 8,
+  "rawRows": 713,
+  "stopReason": "short_page",
+  "error": null,
+  "arrayPath": "0.result",
+  "output": {
+    "rawRowsPath": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260704-090427/allrecipes.com/raw-rows.jsonl",
+    "summaryPath": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260704-090427/allrecipes.com/scrape-summary.json"
+  },
+  "pageStats": [
+    {
+      "page": 1,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 2,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 3,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 4,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 5,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 6,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 7,
+      "rows": 100,
+      "status": "ok",
+      "arrayPath": "0.result"
+    },
+    {
+      "page": 8,
+      "rows": 13,
+      "status": "ok",
+      "arrayPath": "0.result"
+    }
+  ]
+}

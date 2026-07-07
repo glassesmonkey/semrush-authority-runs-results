@@ -1,0 +1,6 @@
+{"keyword":"elk stack","page":1,"rowIndex":1,"position":1,"volume":40500,"traffic":5346,"kd":39,"cpc":4.3,"intents":[1],"url":"https://www.elastic.co/elastic-stack","rawSource":"semrush-rpc"}
+{"keyword":"cluster health","page":1,"rowIndex":2,"position":1,"volume":18100,"traffic":4488,"kd":28,"cpc":0.85,"intents":[1],"url":"https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-cluster-health","rawSource":"semrush-rpc"}
+{"keyword":"updateby","page":1,"rowIndex":3,"position":1,"volume":12100,"traffic":1597,"kd":31,"cpc":1.18,"intents":[1],"url":"https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-update-by-query","rawSource":"semrush-rpc"}
+{"keyword":"translogs","page":1,"rowIndex":4,"position":1,"volume":14800,"traffic":1213,"kd":15,"cpc":2.09,"intents":[1],"url":"https://www.elastic.co/docs/reference/elasticsearch/index-settings/translog","rawSource":"semrush-rpc"}
+{"keyword":"elastic login","page":1,"rowIndex":5,"position":2,"volume":12100,"traffic":314,"kd":37,"cpc":10.95,"intents":[2,3],"url":"https://cloud.elastic.co/login","rawSource":"semrush-rpc"}
+{"keyword":"elastic login","page":1,"rowIndex":6,"position":3,"volume":12100,"traffic":217,"kd":37,"cpc":10.95,"intents":[2,3],"url":"https://cloud.elastic.co/","rawSource":"semrush-rpc"}

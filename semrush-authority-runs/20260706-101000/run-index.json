@@ -1,0 +1,33 @@
+{
+  "runDir": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260706-101000",
+  "generatedAt": "2026-07-06T02:10:24.711Z",
+  "totals": {
+    "domains": 1,
+    "completed": 1,
+    "failed": 0,
+    "rawRows": 0,
+    "uniqueKeywords": 0,
+    "firstPassCandidates": 0,
+    "finalReviewedCandidates": 0,
+    "p0Keywords": 0,
+    "p1Keywords": 0,
+    "p2Keywords": 0
+  },
+  "sites": [
+    {
+      "domain": "threads.net",
+      "status": "completed",
+      "pagesFetched": 0,
+      "rawRows": 0,
+      "uniqueKeywords": 0,
+      "firstPassCandidates": 0,
+      "finalReviewedCandidates": 0,
+      "p0Keywords": 0,
+      "p1Keywords": 0,
+      "p2Keywords": 0,
+      "outputDir": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260706-101000/threads.net",
+      "stopReason": "no_data",
+      "error": null
+    }
+  ]
+}

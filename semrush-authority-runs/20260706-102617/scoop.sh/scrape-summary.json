@@ -1,0 +1,32 @@
+{
+  "domain": "scoop.sh",
+  "status": "completed",
+  "startedAt": "2026-07-06T17:08:36.076Z",
+  "completedAt": "2026-07-06T17:08:39.681Z",
+  "cdpBase": "http://127.0.0.1:9333",
+  "searchType": "domain",
+  "targetUrl": "https://sem.3ue.co/analytics/organic/positions/?sortField=traffic&filter=%7B%22search%22%3A%22%22%2C%22volume%22%3A%2210000-%22%2C%22positions%22%3A%22-5%22%2C%22positionsType%22%3A%22all%22%2C%22serpFeatures%22%3Anull%2C%22intent%22%3A%5B%22informational%22%2C%22commercial%22%2C%22transactional%22%5D%2C%22kd%22%3A%220-40%22%2C%22advanced%22%3A%7B%7D%7D&db=us&q=scoop.sh&searchType=domain",
+  "pageSize": 100,
+  "maxPages": 10000,
+  "startPage": 1,
+  "append": false,
+  "minDelayMs": 1200,
+  "maxDelayMs": 4800,
+  "pagesFetched": 0,
+  "rawRows": 0,
+  "stopReason": "no_data",
+  "error": null,
+  "arrayPath": null,
+  "output": {
+    "rawRowsPath": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260706-102617/scoop.sh/raw-rows.jsonl",
+    "summaryPath": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260706-102617/scoop.sh/scrape-summary.json"
+  },
+  "pageStats": [
+    {
+      "page": 1,
+      "rows": 0,
+      "status": "empty",
+      "candidateArrays": []
+    }
+  ]
+}

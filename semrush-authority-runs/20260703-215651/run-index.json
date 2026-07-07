@@ -1,0 +1,33 @@
+{
+  "runDir": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260703-215651",
+  "generatedAt": "2026-07-03T15:33:29.664Z",
+  "totals": {
+    "domains": 1,
+    "completed": 1,
+    "failed": 0,
+    "rawRows": 22175,
+    "uniqueKeywords": 19436,
+    "firstPassCandidates": 1726,
+    "finalReviewedCandidates": 1561,
+    "p0Keywords": 119,
+    "p1Keywords": 1201,
+    "p2Keywords": 241
+  },
+  "sites": [
+    {
+      "domain": "youtube.com",
+      "status": "completed",
+      "pagesFetched": 222,
+      "rawRows": 22175,
+      "uniqueKeywords": 19436,
+      "firstPassCandidates": 1726,
+      "finalReviewedCandidates": 1561,
+      "p0Keywords": 119,
+      "p1Keywords": 1201,
+      "p2Keywords": 241,
+      "outputDir": "/Volumes/WD1T/outsea/sem-keyword-platform-lowdr/semrush-authority-runs/20260703-215651/youtube.com",
+      "stopReason": "short_page",
+      "error": null
+    }
+  ]
+}

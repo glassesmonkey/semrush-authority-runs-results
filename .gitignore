@@ -1,7 +1,42 @@
 # SEMrush authority miner results
 #
-# Keep this repository report-only. Raw exports, chunk files, JSON, and JSONL
-# stay in the local run directory unless they are explicitly force-added.
+# Keep this repository raw-scrape-only for repeatable re-screening.
+# Derived model outputs, chunks, clusters, and reports stay local unless they
+# were already tracked before this policy changed.
 semrush-authority-runs/**/*
 !semrush-authority-runs/**/
-!semrush-authority-runs/**/serp-review-recommendations.md
+!semrush-authority-runs/**/raw-rows.jsonl
+!semrush-authority-runs/**/scrape-summary.json
+!semrush-authority-runs/*/run-index.json
+!semrush-authority-runs/*/targets*.json
+!semrush-authority-runs/*/targets*.jsonl
+!semrush-authority-runs/*/targets*.txt
+
+.DS_Store
+*.log
+*.tmp
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+
+.env
+.env.*
+*.pem
+*.key
+*token*.json
+*credential*.json
+*credentials*.json
+*cookie*.json
+*secret*.json
+
+node_modules/
+.cache/
+semrush-authority-runs/**/pre-*
+semrush-authority-runs/**/pre-*/**
+semrush-authority-runs/**/archive/
+semrush-authority-runs/**/archive/**
+semrush-authority-runs/**/backup/
+semrush-authority-runs/**/backup/**
